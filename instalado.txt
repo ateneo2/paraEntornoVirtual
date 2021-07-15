@@ -1,0 +1,2756 @@
+.:
+total 68
+drwxrwxr-x  5 jose jose  4096 Aug  6 14:53 .
+drwxr-xr-x 45 jose jose  4096 Aug  6 15:08 ..
+-rw-rw-r--  1 jose jose   714 Aug  1 23:42 forms.py
+-rw-rw-r--  1 jose jose  1270 Aug  1 23:42 forms.pyc
+-rw-rw-r--  1 jose jose     0 Aug  6 15:08 instalado.txt
+-rw-rw-r--  1 jose jose  1818 Aug  1 23:00 run2_old.py
+-rw-rw-r--  1 jose jose  2216 Aug  1 23:27 run2.py
+-rw-rw-r--  1 jose jose  2979 Aug  1 23:27 run2.pyc
+-rw-rw-r--  1 jose jose  2265 Aug  1 01:01 run.py
+-rw-rw-r--  1 jose jose  2569 Jul 31 18:47 run.pyc
+-rw-------  1 root root 12288 Jul 29 23:21 .run.py.swp
+-rw-rw-r--  1 jose jose   101 Jul 29 23:53 showpost.py
+-rw-rw-r--  1 jose jose   374 Jul 29 23:54 showpost.pyc
+drwxrwxr-x  2 jose jose  4096 Jul 30 00:27 static
+drwxrwxr-x  3 jose jose  4096 Jul 31 18:42 templates
+drwxrwxr-x  5 jose jose  4096 Jul 29 23:10 ve
+
+./static:
+total 12
+drwxrwxr-x 2 jose jose 4096 Jul 30 00:27 .
+drwxrwxr-x 5 jose jose 4096 Aug  6 14:53 ..
+-rw-rw-r-- 1 jose jose  377 Jul 30 20:59 base.css
+
+./templates:
+total 44
+drwxrwxr-x 3 jose jose 4096 Jul 31 18:42 .
+drwxrwxr-x 5 jose jose 4096 Aug  6 14:53 ..
+drwxrwxr-x 2 jose jose 4096 Aug  1 22:57 admin
+-rw-rw-r-- 1 jose jose  262 Jul 30 00:29 base_template.html
+-rw-rw-r-- 1 jose jose  223 Aug  1 23:05 index.html
+-rw-rw-r-- 1 jose jose  461 Jul 31 00:09 mostrar.html
+-rw-rw-r-- 1 jose jose   83 Jul 30 21:24 muestra.html
+-rw-rw-r-- 1 jose jose  158 Jul 30 00:31 post_view.html
+-rw-rw-r-- 1 jose jose 1538 Jul 31 18:44 signup_form2.html
+-rw-rw-r-- 1 jose jose  594 Jul 31 18:42 signup_form3.html
+-rw-r--r-- 1 jose jose  571 Jul 30 20:50 signup_form.html
+
+./templates/admin:
+total 16
+drwxrwxr-x 2 jose jose 4096 Aug  1 22:57 .
+drwxrwxr-x 3 jose jose 4096 Jul 31 18:42 ..
+-rw-rw-r-- 1 jose jose 1090 Aug  1 22:58 post_form.html
+-rw-rw-r-- 1 jose jose  330 Aug  1 22:57 post_form_old.html
+
+./ve:
+total 28
+drwxrwxr-x 5 jose jose 4096 Jul 29 23:10 .
+drwxrwxr-x 5 jose jose 4096 Aug  6 14:53 ..
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:07 bin
+-rw-rw-r-- 1 jose jose   40 Jul 29 23:10 .gitignore
+drwxrwxr-x 2 jose jose 4096 Jul 29 23:10 include
+drwxrwxr-x 3 jose jose 4096 Jul 29 23:10 lib
+-rw-rw-r-- 1 jose jose  202 Jul 29 23:10 pyvenv.cfg
+
+./ve/bin:
+total 3660
+drwxrwxr-x 2 jose jose    4096 Aug  6 15:07 .
+drwxrwxr-x 5 jose jose    4096 Jul 29 23:10 ..
+-rw-rw-r-- 1 jose jose    2221 Jul 29 23:10 activate
+-rw-rw-r-- 1 jose jose    1440 Jul 29 23:10 activate.csh
+-rw-rw-r-- 1 jose jose    3071 Jul 29 23:10 activate.fish
+-rw-rw-r-- 1 jose jose    1751 Jul 29 23:10 activate.ps1
+-rw-rw-r-- 1 jose jose    1199 Jul 29 23:10 activate_this.py
+-rwxrwxr-x 1 jose jose     257 Jul 29 23:10 easy_install
+-rwxrwxr-x 1 jose jose     257 Jul 29 23:10 easy_install2
+-rwxrwxr-x 1 jose jose     257 Jul 29 23:10 easy_install-2.7
+-rwxrwxr-x 1 jose jose     257 Jul 29 23:10 easy_install2.7
+-rwxrwxr-x 1 jose jose     241 Aug  6 15:07 email_validator
+-rwxrwxr-x 1 jose jose     235 Aug  1 23:51 flask
+-rwxrwxr-x 1 jose jose     248 Aug  6 15:06 pip
+-rwxrwxr-x 1 jose jose     248 Aug  6 15:06 pip2
+-rwxrwxr-x 1 jose jose     248 Aug  6 15:06 pip2.7
+-rwxr-xr-x 1 jose jose 3665768 Jul 29 23:10 python
+lrwxrwxrwx 1 jose jose       6 Jul 29 23:10 python2 -> python
+lrwxrwxrwx 1 jose jose       6 Jul 29 23:10 python2.7 -> python
+-rwxrwxr-x 1 jose jose     235 Jul 29 23:10 wheel
+-rwxrwxr-x 1 jose jose     235 Jul 29 23:10 wheel2
+-rwxrwxr-x 1 jose jose     235 Jul 29 23:10 wheel-2.7
+-rwxrwxr-x 1 jose jose     235 Jul 29 23:10 wheel2.7
+
+./ve/include:
+total 8
+drwxrwxr-x 2 jose jose 4096 Jul 29 23:10 .
+drwxrwxr-x 5 jose jose 4096 Jul 29 23:10 ..
+lrwxrwxrwx 1 jose jose   22 Jul 29 23:10 python2.7 -> /usr/include/python2.7
+
+./ve/lib:
+total 12
+drwxrwxr-x 3 jose jose 4096 Jul 29 23:10 .
+drwxrwxr-x 5 jose jose 4096 Jul 29 23:10 ..
+drwxrwxr-x 4 jose jose 4096 Jul 29 23:12 python2.7
+
+./ve/lib/python2.7:
+total 32
+drwxrwxr-x  4 jose jose 4096 Jul 29 23:12 .
+drwxrwxr-x  3 jose jose 4096 Jul 29 23:10 ..
+drwxrwxr-x  2 jose jose 4096 Jul 29 23:10 config-x86_64-linux-gnu
+lrwxrwxrwx  1 jose jose   30 Jul 29 23:10 lib-dynload -> /usr/lib/python2.7/lib-dynload
+lrwxrwxrwx  1 jose jose   24 Jul 29 23:10 os.py -> /usr/lib/python2.7/os.py
+lrwxrwxrwx  1 jose jose   25 Jul 29 23:10 os.pyc -> /usr/lib/python2.7/os.pyc
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 site-packages
+-rw-rw-r--  1 jose jose 6155 Jul 29 23:10 site.py
+-rw-rw-r--  1 jose jose 6059 Jul 29 23:12 site.pyc
+
+./ve/lib/python2.7/config-x86_64-linux-gnu:
+total 8
+drwxrwxr-x 2 jose jose 4096 Jul 29 23:10 .
+drwxrwxr-x 4 jose jose 4096 Jul 29 23:12 ..
+lrwxrwxrwx 1 jose jose   51 Jul 29 23:10 Makefile -> /usr/lib/python2.7/config-x86_64-linux-gnu/Makefile
+
+./ve/lib/python2.7/site-packages:
+total 156
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 .
+drwxrwxr-x  4 jose jose 4096 Jul 29 23:12 ..
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 click
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 click-7.1.2.dist-info
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:07 dns
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:07 dnspython-1.16.0.dist-info
+-rw-rw-r--  1 jose jose  126 Jul 29 23:10 easy_install.py
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:07 email_validator
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:07 email_validator-1.1.1.dist-info
+drwxrwxr-x  3 jose jose 4096 Aug  1 23:51 flask
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 Flask-1.1.2.dist-info
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 flask_login
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 Flask_Login-0.5.0.dist-info
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 flask_wtf
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 Flask_WTF-0.14.3.dist-info
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:07 idna
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:07 idna-2.10.dist-info
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 itsdangerous
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 itsdangerous-1.1.0.dist-info
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 jinja2
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 Jinja2-2.11.2.dist-info
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 markupsafe
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 MarkupSafe-1.1.1.dist-info
+drwxrwxr-x  4 jose jose 4096 Aug  6 15:06 pip
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:06 pip-20.2.1.dist-info
+drwxrwxr-x  4 jose jose 4096 Aug  6 14:54 pkg_resources
+drwxrwxr-x  5 jose jose 4096 Jul 29 23:10 setuptools
+drwxrwxr-x  2 jose jose 4096 Jul 29 23:10 setuptools-44.1.1.dist-info
+-rw-rw-r--  1 jose jose    0 Jul 29 23:10 setuptools-44.1.1.virtualenv
+-rw-rw-r--  1 jose jose   18 Jul 29 23:10 _virtualenv.pth
+-rw-rw-r--  1 jose jose 5662 Jul 29 23:10 _virtualenv.py
+-rw-rw-r--  1 jose jose 5300 Jul 29 23:12 _virtualenv.pyc
+drwxrwxr-x  5 jose jose 4096 Aug  1 23:51 werkzeug
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 Werkzeug-1.0.1.dist-info
+drwxrwxr-x  3 jose jose 4096 Jul 29 23:10 wheel
+drwxrwxr-x  2 jose jose 4096 Jul 29 23:10 wheel-0.34.2.dist-info
+-rw-rw-r--  1 jose jose    0 Jul 29 23:10 wheel-0.34.2.virtualenv
+drwxrwxr-x  7 jose jose 4096 Aug  6 15:05 wtforms
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 WTForms-2.3.3.dist-info
+
+./ve/lib/python2.7/site-packages/click:
+total 632
+drwxrwxr-x  2 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose 12309 Aug  1 23:51 _bashcomplete.py
+-rw-rw-r--  1 jose jose 11273 Aug  1 23:51 _bashcomplete.pyc
+-rw-rw-r--  1 jose jose 24169 Aug  1 23:51 _compat.py
+-rw-rw-r--  1 jose jose 26749 Aug  1 23:51 _compat.pyc
+-rw-rw-r--  1 jose jose 77650 Aug  1 23:51 core.py
+-rw-rw-r--  1 jose jose 74597 Aug  1 23:51 core.pyc
+-rw-rw-r--  1 jose jose 11215 Aug  1 23:51 decorators.py
+-rw-rw-r--  1 jose jose 14486 Aug  1 23:51 decorators.pyc
+-rw-rw-r--  1 jose jose  8118 Aug  1 23:51 exceptions.py
+-rw-rw-r--  1 jose jose 12109 Aug  1 23:51 exceptions.pyc
+-rw-rw-r--  1 jose jose  9281 Aug  1 23:51 formatting.py
+-rw-rw-r--  1 jose jose 10977 Aug  1 23:51 formatting.pyc
+-rw-rw-r--  1 jose jose  1501 Aug  1 23:51 globals.py
+-rw-rw-r--  1 jose jose  2313 Aug  1 23:51 globals.pyc
+-rw-rw-r--  1 jose jose  2463 Aug  1 23:51 __init__.py
+-rw-rw-r--  1 jose jose  3454 Aug  1 23:51 __init__.pyc
+-rw-rw-r--  1 jose jose 15691 Aug  1 23:51 parser.py
+-rw-rw-r--  1 jose jose 14286 Aug  1 23:51 parser.pyc
+-rw-rw-r--  1 jose jose 20702 Aug  1 23:51 _termui_impl.py
+-rw-rw-r--  1 jose jose 19620 Aug  1 23:51 _termui_impl.pyc
+-rw-rw-r--  1 jose jose 23998 Aug  1 23:51 termui.py
+-rw-rw-r--  1 jose jose 24733 Aug  1 23:51 termui.pyc
+-rw-rw-r--  1 jose jose 12854 Aug  1 23:51 testing.py
+-rw-rw-r--  1 jose jose 14418 Aug  1 23:51 testing.pyc
+-rw-rw-r--  1 jose jose  1197 Aug  1 23:51 _textwrap.py
+-rw-rw-r--  1 jose jose  1750 Aug  1 23:51 _textwrap.pyc
+-rw-rw-r--  1 jose jose 25045 Aug  1 23:51 types.py
+-rw-rw-r--  1 jose jose 28641 Aug  1 23:51 types.pyc
+-rw-rw-r--  1 jose jose  4201 Aug  1 23:51 _unicodefun.py
+-rw-rw-r--  1 jose jose  4186 Aug  1 23:51 _unicodefun.pyc
+-rw-rw-r--  1 jose jose 15940 Aug  1 23:51 utils.py
+-rw-rw-r--  1 jose jose 18857 Aug  1 23:51 utils.pyc
+-rw-rw-r--  1 jose jose 10010 Aug  1 23:51 _winconsole.py
+-rw-rw-r--  1 jose jose 12868 Aug  1 23:51 _winconsole.pyc
+
+./ve/lib/python2.7/site-packages/click-7.1.2.dist-info:
+total 32
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose    4 Aug  1 23:51 INSTALLER
+-rw-rw-r--  1 jose jose 1475 Aug  1 23:51 LICENSE.rst
+-rw-rw-r--  1 jose jose 2868 Aug  1 23:51 METADATA
+-rw-rw-r--  1 jose jose 2141 Aug  1 23:51 RECORD
+-rw-rw-r--  1 jose jose    6 Aug  1 23:51 top_level.txt
+-rw-rw-r--  1 jose jose  110 Aug  1 23:51 WHEEL
+
+./ve/lib/python2.7/site-packages/dns:
+total 856
+drwxrwxr-x  3 jose jose  4096 Aug  6 15:07 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose  1503 Aug  6 15:07 _compat.py
+-rw-rw-r--  1 jose jose  2652 Aug  6 15:07 _compat.pyc
+-rw-rw-r--  1 jose jose 16504 Aug  6 15:07 dnssec.py
+-rw-rw-r--  1 jose jose 15691 Aug  6 15:07 dnssec.pyc
+-rw-rw-r--  1 jose jose  3753 Aug  6 15:07 e164.py
+-rw-rw-r--  1 jose jose  3531 Aug  6 15:07 e164.pyc
+-rw-rw-r--  1 jose jose  7424 Aug  6 15:07 edns.py
+-rw-rw-r--  1 jose jose  9442 Aug  6 15:07 edns.pyc
+-rw-rw-r--  1 jose jose  4771 Aug  6 15:07 entropy.py
+-rw-rw-r--  1 jose jose  4540 Aug  6 15:07 entropy.pyc
+-rw-rw-r--  1 jose jose  4876 Aug  6 15:07 exception.py
+-rw-rw-r--  1 jose jose  5140 Aug  6 15:07 exception.pyc
+-rw-rw-r--  1 jose jose  2933 Aug  6 15:07 flags.py
+-rw-rw-r--  1 jose jose  3219 Aug  6 15:07 flags.pyc
+-rw-rw-r--  1 jose jose  2055 Aug  6 15:07 grange.py
+-rw-rw-r--  1 jose jose  1304 Aug  6 15:07 grange.pyc
+-rw-rw-r--  1 jose jose  1319 Aug  6 15:07 hash.py
+-rw-rw-r--  1 jose jose   851 Aug  6 15:07 hash.pyc
+-rw-rw-r--  1 jose jose  3377 Aug  6 15:07 inet.py
+-rw-rw-r--  1 jose jose  2919 Aug  6 15:07 inet.pyc
+-rw-rw-r--  1 jose jose  1404 Aug  6 15:07 __init__.py
+-rw-rw-r--  1 jose jose   791 Aug  6 15:07 __init__.pyc
+-rw-rw-r--  1 jose jose  2096 Aug  6 15:07 ipv4.py
+-rw-rw-r--  1 jose jose  1633 Aug  6 15:07 ipv4.pyc
+-rw-rw-r--  1 jose jose  5527 Aug  6 15:07 ipv6.py
+-rw-rw-r--  1 jose jose  3966 Aug  6 15:07 ipv6.pyc
+-rw-rw-r--  1 jose jose 41458 Aug  6 15:07 message.py
+-rw-rw-r--  1 jose jose 36766 Aug  6 15:07 message.pyc
+-rw-rw-r--  1 jose jose  3958 Aug  6 15:07 namedict.py
+-rw-rw-r--  1 jose jose  3925 Aug  6 15:07 namedict.pyc
+-rw-rw-r--  1 jose jose 31259 Aug  6 15:07 name.py
+-rw-rw-r--  1 jose jose 34656 Aug  6 15:07 name.pyc
+-rw-rw-r--  1 jose jose  6352 Aug  6 15:07 node.py
+-rw-rw-r--  1 jose jose  6891 Aug  6 15:07 node.pyc
+-rw-rw-r--  1 jose jose  2832 Aug  6 15:07 opcode.py
+-rw-rw-r--  1 jose jose  2949 Aug  6 15:07 opcode.pyc
+-rw-rw-r--  1 jose jose     0 Aug  6 15:07 py.typed
+-rw-rw-r--  1 jose jose 23691 Aug  6 15:07 query.py
+-rw-rw-r--  1 jose jose 20889 Aug  6 15:07 query.pyc
+-rw-rw-r--  1 jose jose  3613 Aug  6 15:07 rcode.py
+-rw-rw-r--  1 jose jose  3524 Aug  6 15:07 rcode.pyc
+-rw-rw-r--  1 jose jose  3219 Aug  6 15:07 rdataclass.py
+-rw-rw-r--  1 jose jose  3201 Aug  6 15:07 rdataclass.pyc
+-rw-rw-r--  1 jose jose 14451 Aug  6 15:07 rdata.py
+-rw-rw-r--  1 jose jose 17142 Aug  6 15:07 rdata.pyc
+-rw-rw-r--  1 jose jose 11463 Aug  6 15:07 rdataset.py
+-rw-rw-r--  1 jose jose 11798 Aug  6 15:07 rdataset.pyc
+-rw-rw-r--  1 jose jose  5917 Aug  6 15:07 rdatatype.py
+-rw-rw-r--  1 jose jose  6634 Aug  6 15:07 rdatatype.pyc
+drwxrwxr-x  5 jose jose  4096 Aug  6 15:07 rdtypes
+-rw-rw-r--  1 jose jose 10826 Aug  6 15:07 renderer.py
+-rw-rw-r--  1 jose jose  9807 Aug  6 15:07 renderer.pyc
+-rw-rw-r--  1 jose jose 50210 Aug  6 15:07 resolver.py
+-rw-rw-r--  1 jose jose 42231 Aug  6 15:07 resolver.pyc
+-rw-rw-r--  1 jose jose  3291 Aug  6 15:07 reversename.py
+-rw-rw-r--  1 jose jose  2656 Aug  6 15:07 reversename.pyc
+-rw-rw-r--  1 jose jose  6159 Aug  6 15:07 rrset.py
+-rw-rw-r--  1 jose jose  6858 Aug  6 15:07 rrset.pyc
+-rw-rw-r--  1 jose jose  7310 Aug  6 15:07 set.py
+-rw-rw-r--  1 jose jose 10081 Aug  6 15:07 set.pyc
+-rw-rw-r--  1 jose jose 18040 Aug  6 15:07 tokenizer.py
+-rw-rw-r--  1 jose jose 18096 Aug  6 15:07 tokenizer.pyc
+-rw-rw-r--  1 jose jose  1814 Aug  6 15:07 tsigkeyring.py
+-rw-rw-r--  1 jose jose  1387 Aug  6 15:07 tsigkeyring.pyc
+-rw-rw-r--  1 jose jose  7813 Aug  6 15:07 tsig.py
+-rw-rw-r--  1 jose jose  8032 Aug  6 15:07 tsig.pyc
+-rw-rw-r--  1 jose jose  2349 Aug  6 15:07 ttl.py
+-rw-rw-r--  1 jose jose  1719 Aug  6 15:07 ttl.pyc
+-rw-rw-r--  1 jose jose 10343 Aug  6 15:07 update.py
+-rw-rw-r--  1 jose jose  8955 Aug  6 15:07 update.pyc
+-rw-rw-r--  1 jose jose  1406 Aug  6 15:07 version.py
+-rw-rw-r--  1 jose jose   581 Aug  6 15:07 version.pyc
+-rw-rw-r--  1 jose jose  3751 Aug  6 15:07 wiredata.py
+-rw-rw-r--  1 jose jose  3116 Aug  6 15:07 wiredata.pyc
+-rw-rw-r--  1 jose jose 42381 Aug  6 15:07 zone.py
+-rw-rw-r--  1 jose jose 36925 Aug  6 15:07 zone.pyc
+
+./ve/lib/python2.7/site-packages/dns/rdtypes:
+total 88
+drwxrwxr-x 5 jose jose 4096 Aug  6 15:07 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:07 ..
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:07 ANY
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:07 CH
+-rw-rw-r-- 1 jose jose 4458 Aug  6 15:07 dnskeybase.py
+-rw-rw-r-- 1 jose jose 4947 Aug  6 15:07 dnskeybase.pyc
+-rw-rw-r-- 1 jose jose 3157 Aug  6 15:07 dsbase.py
+-rw-rw-r-- 1 jose jose 3143 Aug  6 15:07 dsbase.pyc
+-rw-rw-r-- 1 jose jose 2777 Aug  6 15:07 euibase.py
+-rw-rw-r-- 1 jose jose 2940 Aug  6 15:07 euibase.pyc
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:07 IN
+-rw-rw-r-- 1 jose jose  982 Aug  6 15:07 __init__.py
+-rw-rw-r-- 1 jose jose  320 Aug  6 15:07 __init__.pyc
+-rw-rw-r-- 1 jose jose 3737 Aug  6 15:07 mxbase.py
+-rw-rw-r-- 1 jose jose 4762 Aug  6 15:07 mxbase.pyc
+-rw-rw-r-- 1 jose jose 2928 Aug  6 15:07 nsbase.py
+-rw-rw-r-- 1 jose jose 3751 Aug  6 15:07 nsbase.pyc
+-rw-rw-r-- 1 jose jose 3328 Aug  6 15:07 txtbase.py
+-rw-rw-r-- 1 jose jose 3360 Aug  6 15:07 txtbase.pyc
+
+./ve/lib/python2.7/site-packages/dns/rdtypes/ANY:
+total 384
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:07 .
+drwxrwxr-x 5 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r-- 1 jose jose  1925 Aug  6 15:07 AFSDB.py
+-rw-rw-r-- 1 jose jose  1594 Aug  6 15:07 AFSDB.pyc
+-rw-rw-r-- 1 jose jose  1027 Aug  6 15:07 AVC.py
+-rw-rw-r-- 1 jose jose   609 Aug  6 15:07 AVC.pyc
+-rw-rw-r-- 1 jose jose  2699 Aug  6 15:07 CAA.py
+-rw-rw-r-- 1 jose jose  2900 Aug  6 15:07 CAA.pyc
+-rw-rw-r-- 1 jose jose  1103 Aug  6 15:07 CDNSKEY.py
+-rw-rw-r-- 1 jose jose   667 Aug  6 15:07 CDNSKEY.pyc
+-rw-rw-r-- 1 jose jose   952 Aug  6 15:07 CDS.py
+-rw-rw-r-- 1 jose jose   518 Aug  6 15:07 CDS.pyc
+-rw-rw-r-- 1 jose jose  4028 Aug  6 15:07 CERT.py
+-rw-rw-r-- 1 jose jose  4190 Aug  6 15:07 CERT.pyc
+-rw-rw-r-- 1 jose jose  1161 Aug  6 15:07 CNAME.py
+-rw-rw-r-- 1 jose jose   731 Aug  6 15:07 CNAME.pyc
+-rw-rw-r-- 1 jose jose  4721 Aug  6 15:07 CSYNC.py
+-rw-rw-r-- 1 jose jose  4288 Aug  6 15:07 CSYNC.pyc
+-rw-rw-r-- 1 jose jose   941 Aug  6 15:07 DLV.py
+-rw-rw-r-- 1 jose jose   518 Aug  6 15:07 DLV.pyc
+-rw-rw-r-- 1 jose jose  1056 Aug  6 15:07 DNAME.py
+-rw-rw-r-- 1 jose jose   782 Aug  6 15:07 DNAME.pyc
+-rw-rw-r-- 1 jose jose  1101 Aug  6 15:07 DNSKEY.py
+-rw-rw-r-- 1 jose jose   663 Aug  6 15:07 DNSKEY.pyc
+-rw-rw-r-- 1 jose jose   950 Aug  6 15:07 DS.py
+-rw-rw-r-- 1 jose jose   514 Aug  6 15:07 DS.pyc
+-rw-rw-r-- 1 jose jose  1124 Aug  6 15:07 EUI48.py
+-rw-rw-r-- 1 jose jose   713 Aug  6 15:07 EUI48.pyc
+-rw-rw-r-- 1 jose jose  1134 Aug  6 15:07 EUI64.py
+-rw-rw-r-- 1 jose jose   713 Aug  6 15:07 EUI64.pyc
+-rw-rw-r-- 1 jose jose  5450 Aug  6 15:07 GPOS.py
+-rw-rw-r-- 1 jose jose  5874 Aug  6 15:07 GPOS.pyc
+-rw-rw-r-- 1 jose jose  2750 Aug  6 15:07 HINFO.py
+-rw-rw-r-- 1 jose jose  2893 Aug  6 15:07 HINFO.pyc
+-rw-rw-r-- 1 jose jose  4221 Aug  6 15:07 HIP.py
+-rw-rw-r-- 1 jose jose  4388 Aug  6 15:07 HIP.pyc
+-rw-rw-r-- 1 jose jose  1362 Aug  6 15:07 __init__.py
+-rw-rw-r-- 1 jose jose   764 Aug  6 15:07 __init__.pyc
+-rw-rw-r-- 1 jose jose  3350 Aug  6 15:07 ISDN.py
+-rw-rw-r-- 1 jose jose  3177 Aug  6 15:07 ISDN.pyc
+-rw-rw-r-- 1 jose jose 12351 Aug  6 15:07 LOC.py
+-rw-rw-r-- 1 jose jose 10866 Aug  6 15:07 LOC.pyc
+-rw-rw-r-- 1 jose jose   950 Aug  6 15:07 MX.py
+-rw-rw-r-- 1 jose jose   514 Aug  6 15:07 MX.pyc
+-rw-rw-r-- 1 jose jose  3175 Aug  6 15:07 NSEC3PARAM.py
+-rw-rw-r-- 1 jose jose  3214 Aug  6 15:07 NSEC3PARAM.pyc
+-rw-rw-r-- 1 jose jose  7211 Aug  6 15:07 NSEC3.py
+-rw-rw-r-- 1 jose jose  5836 Aug  6 15:07 NSEC3.pyc
+-rw-rw-r-- 1 jose jose  4771 Aug  6 15:07 NSEC.py
+-rw-rw-r-- 1 jose jose  4428 Aug  6 15:07 NSEC.pyc
+-rw-rw-r-- 1 jose jose   950 Aug  6 15:07 NS.py
+-rw-rw-r-- 1 jose jose   514 Aug  6 15:07 NS.pyc
+-rw-rw-r-- 1 jose jose  2028 Aug  6 15:07 OPENPGPKEY.py
+-rw-rw-r-- 1 jose jose  2417 Aug  6 15:07 OPENPGPKEY.pyc
+-rw-rw-r-- 1 jose jose   952 Aug  6 15:07 PTR.py
+-rw-rw-r-- 1 jose jose   518 Aug  6 15:07 PTR.pyc
+-rw-rw-r-- 1 jose jose  3151 Aug  6 15:07 RP.py
+-rw-rw-r-- 1 jose jose  3256 Aug  6 15:07 RP.pyc
+-rw-rw-r-- 1 jose jose  5740 Aug  6 15:07 RRSIG.py
+-rw-rw-r-- 1 jose jose  5994 Aug  6 15:07 RRSIG.pyc
+-rw-rw-r-- 1 jose jose   968 Aug  6 15:07 RT.py
+-rw-rw-r-- 1 jose jose   532 Aug  6 15:07 RT.pyc
+-rw-rw-r-- 1 jose jose  4597 Aug  6 15:07 SOA.py
+-rw-rw-r-- 1 jose jose  4363 Aug  6 15:07 SOA.pyc
+-rw-rw-r-- 1 jose jose   976 Aug  6 15:07 SPF.py
+-rw-rw-r-- 1 jose jose   541 Aug  6 15:07 SPF.pyc
+-rw-rw-r-- 1 jose jose  2905 Aug  6 15:07 SSHFP.py
+-rw-rw-r-- 1 jose jose  2956 Aug  6 15:07 SSHFP.pyc
+-rw-rw-r-- 1 jose jose  3033 Aug  6 15:07 TLSA.py
+-rw-rw-r-- 1 jose jose  3100 Aug  6 15:07 TLSA.pyc
+-rw-rw-r-- 1 jose jose   955 Aug  6 15:07 TXT.py
+-rw-rw-r-- 1 jose jose   521 Aug  6 15:07 TXT.pyc
+-rw-rw-r-- 1 jose jose  2975 Aug  6 15:07 URI.py
+-rw-rw-r-- 1 jose jose  3110 Aug  6 15:07 URI.pyc
+-rw-rw-r-- 1 jose jose  2196 Aug  6 15:07 X25.py
+-rw-rw-r-- 1 jose jose  2497 Aug  6 15:07 X25.pyc
+
+./ve/lib/python2.7/site-packages/dns/rdtypes/CH:
+total 24
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:07 .
+drwxrwxr-x 5 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r-- 1 jose jose 2797 Aug  6 15:07 A.py
+-rw-rw-r-- 1 jose jose 3090 Aug  6 15:07 A.pyc
+-rw-rw-r-- 1 jose jose  923 Aug  6 15:07 __init__.py
+-rw-rw-r-- 1 jose jose  254 Aug  6 15:07 __init__.pyc
+
+./ve/lib/python2.7/site-packages/dns/rdtypes/IN:
+total 136
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:07 .
+drwxrwxr-x 5 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r-- 1 jose jose 2015 Aug  6 15:07 AAAA.py
+-rw-rw-r-- 1 jose jose 2252 Aug  6 15:07 AAAA.pyc
+-rw-rw-r-- 1 jose jose 5344 Aug  6 15:07 APL.py
+-rw-rw-r-- 1 jose jose 5292 Aug  6 15:07 APL.pyc
+-rw-rw-r-- 1 jose jose 1921 Aug  6 15:07 A.py
+-rw-rw-r-- 1 jose jose 2182 Aug  6 15:07 A.pyc
+-rw-rw-r-- 1 jose jose 2096 Aug  6 15:07 DHCID.py
+-rw-rw-r-- 1 jose jose 2404 Aug  6 15:07 DHCID.pyc
+-rw-rw-r-- 1 jose jose 1058 Aug  6 15:07 __init__.py
+-rw-rw-r-- 1 jose jose  411 Aug  6 15:07 __init__.pyc
+-rw-rw-r-- 1 jose jose 5758 Aug  6 15:07 IPSECKEY.py
+-rw-rw-r-- 1 jose jose 4773 Aug  6 15:07 IPSECKEY.pyc
+-rw-rw-r-- 1 jose jose  958 Aug  6 15:07 KX.py
+-rw-rw-r-- 1 jose jose  520 Aug  6 15:07 KX.pyc
+-rw-rw-r-- 1 jose jose 4547 Aug  6 15:07 NAPTR.py
+-rw-rw-r-- 1 jose jose 4543 Aug  6 15:07 NAPTR.pyc
+-rw-rw-r-- 1 jose jose  970 Aug  6 15:07 NSAP_PTR.py
+-rw-rw-r-- 1 jose jose  544 Aug  6 15:07 NSAP_PTR.pyc
+-rw-rw-r-- 1 jose jose 2156 Aug  6 15:07 NSAP.py
+-rw-rw-r-- 1 jose jose 2454 Aug  6 15:07 NSAP.pyc
+-rw-rw-r-- 1 jose jose 3471 Aug  6 15:07 PX.py
+-rw-rw-r-- 1 jose jose 3262 Aug  6 15:07 PX.pyc
+-rw-rw-r-- 1 jose jose 3131 Aug  6 15:07 SRV.py
+-rw-rw-r-- 1 jose jose 3172 Aug  6 15:07 SRV.pyc
+-rw-rw-r-- 1 jose jose 3888 Aug  6 15:07 WKS.py
+-rw-rw-r-- 1 jose jose 3748 Aug  6 15:07 WKS.pyc
+
+./ve/lib/python2.7/site-packages/dnspython-1.16.0.dist-info:
+total 48
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:07 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   454 Aug  6 15:07 DESCRIPTION.rst
+-rw-rw-r--  1 jose jose     4 Aug  6 15:07 INSTALLER
+-rw-rw-r--  1 jose jose  1526 Aug  6 15:07 LICENSE.txt
+-rw-rw-r--  1 jose jose  1837 Aug  6 15:07 METADATA
+-rw-rw-r--  1 jose jose  1469 Aug  6 15:07 metadata.json
+-rw-rw-r--  1 jose jose 10490 Aug  6 15:07 RECORD
+-rw-rw-r--  1 jose jose     4 Aug  6 15:07 top_level.txt
+-rw-rw-r--  1 jose jose   110 Aug  6 15:07 WHEEL
+
+./ve/lib/python2.7/site-packages/email_validator:
+total 48
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:07 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose 23348 Aug  6 15:07 __init__.py
+-rw-rw-r--  1 jose jose 12300 Aug  6 15:07 __init__.pyc
+
+./ve/lib/python2.7/site-packages/email_validator-1.1.1.dist-info:
+total 56
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:07 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose    58 Aug  6 15:07 entry_points.txt
+-rw-rw-r--  1 jose jose     4 Aug  6 15:07 INSTALLER
+-rw-rw-r--  1 jose jose  7048 Aug  6 15:07 LICENSE
+-rw-rw-r--  1 jose jose 17476 Aug  6 15:07 METADATA
+-rw-rw-r--  1 jose jose   932 Aug  6 15:07 RECORD
+-rw-rw-r--  1 jose jose     0 Aug  6 15:07 REQUESTED
+-rw-rw-r--  1 jose jose    16 Aug  6 15:07 top_level.txt
+-rw-rw-r--  1 jose jose   110 Aug  6 15:07 WHEEL
+
+./ve/lib/python2.7/site-packages/flask:
+total 636
+drwxrwxr-x  3 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose 98059 Aug  1 23:51 app.py
+-rw-rw-r--  1 jose jose 83700 Aug  1 23:51 app.pyc
+-rw-rw-r--  1 jose jose 21400 Aug  1 23:51 blueprints.py
+-rw-rw-r--  1 jose jose 27274 Aug  1 23:51 blueprints.pyc
+-rw-rw-r--  1 jose jose 31035 Aug  1 23:51 cli.py
+-rw-rw-r--  1 jose jose 32083 Aug  1 23:51 cli.pyc
+-rw-rw-r--  1 jose jose  4099 Aug  1 23:51 _compat.py
+-rw-rw-r--  1 jose jose  6684 Aug  1 23:51 _compat.pyc
+-rw-rw-r--  1 jose jose 10052 Aug  1 23:51 config.py
+-rw-rw-r--  1 jose jose 11566 Aug  1 23:51 config.pyc
+-rw-rw-r--  1 jose jose 16724 Aug  1 23:51 ctx.py
+-rw-rw-r--  1 jose jose 17105 Aug  1 23:51 ctx.pyc
+-rw-rw-r--  1 jose jose  6475 Aug  1 23:51 debughelpers.py
+-rw-rw-r--  1 jose jose  8277 Aug  1 23:51 debughelpers.pyc
+-rw-rw-r--  1 jose jose  1637 Aug  1 23:51 globals.py
+-rw-rw-r--  1 jose jose  2160 Aug  1 23:51 globals.pyc
+-rw-rw-r--  1 jose jose 43074 Aug  1 23:51 helpers.py
+-rw-rw-r--  1 jose jose 39692 Aug  1 23:51 helpers.pyc
+-rw-rw-r--  1 jose jose  1894 Aug  1 23:51 __init__.py
+-rw-rw-r--  1 jose jose  2619 Aug  1 23:51 __init__.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  1 23:51 json
+-rw-rw-r--  1 jose jose  3250 Aug  1 23:51 logging.py
+-rw-rw-r--  1 jose jose  3830 Aug  1 23:51 logging.pyc
+-rw-rw-r--  1 jose jose   254 Aug  1 23:51 __main__.py
+-rw-rw-r--  1 jose jose   462 Aug  1 23:51 __main__.pyc
+-rw-rw-r--  1 jose jose 14360 Aug  1 23:51 sessions.py
+-rw-rw-r--  1 jose jose 14531 Aug  1 23:51 sessions.pyc
+-rw-rw-r--  1 jose jose  2212 Aug  1 23:51 signals.py
+-rw-rw-r--  1 jose jose  3046 Aug  1 23:51 signals.pyc
+-rw-rw-r--  1 jose jose  4939 Aug  1 23:51 templating.py
+-rw-rw-r--  1 jose jose  6345 Aug  1 23:51 templating.pyc
+-rw-rw-r--  1 jose jose 10146 Aug  1 23:51 testing.py
+-rw-rw-r--  1 jose jose 10350 Aug  1 23:51 testing.pyc
+-rw-rw-r--  1 jose jose  5802 Aug  1 23:51 views.py
+-rw-rw-r--  1 jose jose  5659 Aug  1 23:51 views.pyc
+-rw-rw-r--  1 jose jose  4736 Aug  1 23:51 wrappers.py
+-rw-rw-r--  1 jose jose  5195 Aug  1 23:51 wrappers.pyc
+
+./ve/lib/python2.7/site-packages/flask/json:
+total 64
+drwxrwxr-x 2 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 3 jose jose  4096 Aug  1 23:51 ..
+-rw-rw-r-- 1 jose jose 11988 Aug  1 23:51 __init__.py
+-rw-rw-r-- 1 jose jose 13911 Aug  1 23:51 __init__.pyc
+-rw-rw-r-- 1 jose jose  8306 Aug  1 23:51 tag.py
+-rw-rw-r-- 1 jose jose 14438 Aug  1 23:51 tag.pyc
+
+./ve/lib/python2.7/site-packages/Flask-1.1.2.dist-info:
+total 40
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   42 Aug  1 23:51 entry_points.txt
+-rw-rw-r--  1 jose jose    4 Aug  1 23:51 INSTALLER
+-rw-rw-r--  1 jose jose 1475 Aug  1 23:51 LICENSE.rst
+-rw-rw-r--  1 jose jose 4591 Aug  1 23:51 METADATA
+-rw-rw-r--  1 jose jose 2562 Aug  1 23:51 RECORD
+-rw-rw-r--  1 jose jose    6 Aug  1 23:51 top_level.txt
+-rw-rw-r--  1 jose jose  110 Aug  1 23:51 WHEEL
+
+./ve/lib/python2.7/site-packages/flask_login:
+total 136
+drwxrwxr-x  2 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   389 Aug  1 23:51 __about__.py
+-rw-rw-r--  1 jose jose   688 Aug  1 23:51 __about__.pyc
+-rw-rw-r--  1 jose jose   813 Aug  1 23:51 _compat.py
+-rw-rw-r--  1 jose jose  1462 Aug  1 23:51 _compat.pyc
+-rw-rw-r--  1 jose jose  1862 Aug  1 23:51 config.py
+-rw-rw-r--  1 jose jose  1055 Aug  1 23:51 config.pyc
+-rw-rw-r--  1 jose jose  2176 Aug  1 23:51 __init__.py
+-rw-rw-r--  1 jose jose  2218 Aug  1 23:51 __init__.pyc
+-rw-rw-r--  1 jose jose 18414 Aug  1 23:51 login_manager.py
+-rw-rw-r--  1 jose jose 16852 Aug  1 23:51 login_manager.pyc
+-rw-rw-r--  1 jose jose  1735 Aug  1 23:51 mixins.py
+-rw-rw-r--  1 jose jose  3472 Aug  1 23:51 mixins.pyc
+-rw-rw-r--  1 jose jose  2223 Aug  1 23:51 signals.py
+-rw-rw-r--  1 jose jose  1031 Aug  1 23:51 signals.pyc
+-rw-rw-r--  1 jose jose   539 Aug  1 23:51 test_client.py
+-rw-rw-r--  1 jose jose  1096 Aug  1 23:51 test_client.pyc
+-rw-rw-r--  1 jose jose 13501 Aug  1 23:51 utils.py
+-rw-rw-r--  1 jose jose 15262 Aug  1 23:51 utils.pyc
+
+./ve/lib/python2.7/site-packages/Flask_Login-0.5.0.dist-info:
+total 32
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose    4 Aug  1 23:51 INSTALLER
+-rw-rw-r--  1 jose jose 1059 Aug  1 23:51 LICENSE
+-rw-rw-r--  1 jose jose 1702 Aug  1 23:51 METADATA
+-rw-rw-r--  1 jose jose 1576 Aug  1 23:51 RECORD
+-rw-rw-r--  1 jose jose    0 Aug  1 23:51 REQUESTED
+-rw-rw-r--  1 jose jose   12 Aug  1 23:51 top_level.txt
+-rw-rw-r--  1 jose jose  110 Aug  1 23:51 WHEEL
+
+./ve/lib/python2.7/site-packages/flask_wtf:
+total 100
+drwxrwxr-x  3 jose jose  4096 Aug  6 15:05 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   917 Aug  6 15:05 _compat.py
+-rw-rw-r--  1 jose jose  1557 Aug  6 15:05 _compat.pyc
+-rw-rw-r--  1 jose jose 11784 Aug  6 15:05 csrf.py
+-rw-rw-r--  1 jose jose 13661 Aug  6 15:05 csrf.pyc
+-rw-rw-r--  1 jose jose  2886 Aug  6 15:05 file.py
+-rw-rw-r--  1 jose jose  4517 Aug  6 15:05 file.pyc
+-rw-rw-r--  1 jose jose  4987 Aug  6 15:05 form.py
+-rw-rw-r--  1 jose jose  7306 Aug  6 15:05 form.pyc
+-rw-rw-r--  1 jose jose   333 Aug  6 15:05 html5.py
+-rw-rw-r--  1 jose jose   538 Aug  6 15:05 html5.pyc
+-rw-rw-r--  1 jose jose  1228 Aug  6 15:05 i18n.py
+-rw-rw-r--  1 jose jose  1916 Aug  6 15:05 i18n.pyc
+-rw-rw-r--  1 jose jose   166 Aug  6 15:05 __init__.py
+-rw-rw-r--  1 jose jose   463 Aug  6 15:05 __init__.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:05 recaptcha
+
+./ve/lib/python2.7/site-packages/flask_wtf/recaptcha:
+total 40
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose  453 Aug  6 15:05 fields.py
+-rw-rw-r-- 1 jose jose 1001 Aug  6 15:05 fields.pyc
+-rw-rw-r-- 1 jose jose   86 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose  267 Aug  6 15:05 __init__.pyc
+-rw-rw-r-- 1 jose jose 2405 Aug  6 15:05 validators.py
+-rw-rw-r-- 1 jose jose 3118 Aug  6 15:05 validators.pyc
+-rw-rw-r-- 1 jose jose 1255 Aug  6 15:05 widgets.py
+-rw-rw-r-- 1 jose jose 1922 Aug  6 15:05 widgets.pyc
+
+./ve/lib/python2.7/site-packages/Flask_WTF-0.14.3.dist-info:
+total 32
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose    4 Aug  6 15:05 INSTALLER
+-rw-rw-r--  1 jose jose 1490 Aug  6 15:05 LICENSE
+-rw-rw-r--  1 jose jose 1970 Aug  6 15:05 METADATA
+-rw-rw-r--  1 jose jose 1777 Aug  6 15:05 RECORD
+-rw-rw-r--  1 jose jose    0 Aug  6 15:05 REQUESTED
+-rw-rw-r--  1 jose jose   10 Aug  6 15:05 top_level.txt
+-rw-rw-r--  1 jose jose  110 Aug  6 15:05 WHEEL
+
+./ve/lib/python2.7/site-packages/idna:
+total 656
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:07 .
+drwxrwxr-x 33 jose jose   4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   3299 Aug  6 15:07 codec.py
+-rw-rw-r--  1 jose jose   4145 Aug  6 15:07 codec.pyc
+-rw-rw-r--  1 jose jose    232 Aug  6 15:07 compat.py
+-rw-rw-r--  1 jose jose    875 Aug  6 15:07 compat.pyc
+-rw-rw-r--  1 jose jose  11951 Aug  6 15:07 core.py
+-rw-rw-r--  1 jose jose  12566 Aug  6 15:07 core.pyc
+-rw-rw-r--  1 jose jose  42350 Aug  6 15:07 idnadata.py
+-rw-rw-r--  1 jose jose  36197 Aug  6 15:07 idnadata.pyc
+-rw-rw-r--  1 jose jose     58 Aug  6 15:07 __init__.py
+-rw-rw-r--  1 jose jose    260 Aug  6 15:07 __init__.pyc
+-rw-rw-r--  1 jose jose   1749 Aug  6 15:07 intranges.py
+-rw-rw-r--  1 jose jose   2297 Aug  6 15:07 intranges.pyc
+-rw-rw-r--  1 jose jose     22 Aug  6 15:07 package_data.py
+-rw-rw-r--  1 jose jose    199 Aug  6 15:07 package_data.pyc
+-rw-rw-r--  1 jose jose 202084 Aug  6 15:07 uts46data.py
+-rw-rw-r--  1 jose jose 299620 Aug  6 15:07 uts46data.pyc
+
+./ve/lib/python2.7/site-packages/idna-2.10.dist-info:
+total 40
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:07 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose    4 Aug  6 15:07 INSTALLER
+-rw-rw-r--  1 jose jose 1565 Aug  6 15:07 LICENSE.rst
+-rw-rw-r--  1 jose jose 9104 Aug  6 15:07 METADATA
+-rw-rw-r--  1 jose jose 1212 Aug  6 15:07 RECORD
+-rw-rw-r--  1 jose jose    5 Aug  6 15:07 top_level.txt
+-rw-rw-r--  1 jose jose  110 Aug  6 15:07 WHEEL
+
+./ve/lib/python2.7/site-packages/itsdangerous:
+total 136
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose 1133 Aug  1 23:51 _compat.py
+-rw-rw-r--  1 jose jose 1423 Aug  1 23:51 _compat.pyc
+-rw-rw-r--  1 jose jose 1224 Aug  1 23:51 encoding.py
+-rw-rw-r--  1 jose jose 2289 Aug  1 23:51 encoding.pyc
+-rw-rw-r--  1 jose jose 2959 Aug  1 23:51 exc.py
+-rw-rw-r--  1 jose jose 4299 Aug  1 23:51 exc.pyc
+-rw-rw-r--  1 jose jose  708 Aug  1 23:51 __init__.py
+-rw-rw-r--  1 jose jose 1235 Aug  1 23:51 __init__.pyc
+-rw-rw-r--  1 jose jose  431 Aug  1 23:51 _json.py
+-rw-rw-r--  1 jose jose 1157 Aug  1 23:51 _json.pyc
+-rw-rw-r--  1 jose jose 7470 Aug  1 23:51 jws.py
+-rw-rw-r--  1 jose jose 8318 Aug  1 23:51 jws.pyc
+-rw-rw-r--  1 jose jose 8653 Aug  1 23:51 serializer.py
+-rw-rw-r--  1 jose jose 9614 Aug  1 23:51 serializer.pyc
+-rw-rw-r--  1 jose jose 6345 Aug  1 23:51 signer.py
+-rw-rw-r--  1 jose jose 7457 Aug  1 23:51 signer.pyc
+-rw-rw-r--  1 jose jose 5635 Aug  1 23:51 timed.py
+-rw-rw-r--  1 jose jose 5645 Aug  1 23:51 timed.pyc
+-rw-rw-r--  1 jose jose 2275 Aug  1 23:51 url_safe.py
+-rw-rw-r--  1 jose jose 3108 Aug  1 23:51 url_safe.pyc
+
+./ve/lib/python2.7/site-packages/itsdangerous-1.1.0.dist-info:
+total 32
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose    4 Aug  1 23:51 INSTALLER
+-rw-rw-r--  1 jose jose 2120 Aug  1 23:51 LICENSE.rst
+-rw-rw-r--  1 jose jose 3062 Aug  1 23:51 METADATA
+-rw-rw-r--  1 jose jose 1588 Aug  1 23:51 RECORD
+-rw-rw-r--  1 jose jose   13 Aug  1 23:51 top_level.txt
+-rw-rw-r--  1 jose jose  110 Aug  1 23:51 WHEEL
+
+./ve/lib/python2.7/site-packages/jinja2:
+total 1024
+drwxrwxr-x  2 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose  4250 Aug  1 23:51 asyncfilters.py
+-rw-rw-r--  1 jose jose  7209 Aug  1 23:51 asyncsupport.py
+-rw-rw-r--  1 jose jose 12139 Aug  1 23:51 bccache.py
+-rw-rw-r--  1 jose jose 14555 Aug  1 23:51 bccache.pyc
+-rw-rw-r--  1 jose jose  3191 Aug  1 23:51 _compat.py
+-rw-rw-r--  1 jose jose  5748 Aug  1 23:51 _compat.pyc
+-rw-rw-r--  1 jose jose 66284 Aug  1 23:51 compiler.py
+-rw-rw-r--  1 jose jose 62643 Aug  1 23:51 compiler.pyc
+-rw-rw-r--  1 jose jose  1458 Aug  1 23:51 constants.py
+-rw-rw-r--  1 jose jose  1538 Aug  1 23:51 constants.pyc
+-rw-rw-r--  1 jose jose  8529 Aug  1 23:51 debug.py
+-rw-rw-r--  1 jose jose  6667 Aug  1 23:51 debug.pyc
+-rw-rw-r--  1 jose jose  1126 Aug  1 23:51 defaults.py
+-rw-rw-r--  1 jose jose  1419 Aug  1 23:51 defaults.pyc
+-rw-rw-r--  1 jose jose 50629 Aug  1 23:51 environment.py
+-rw-rw-r--  1 jose jose 52116 Aug  1 23:51 environment.pyc
+-rw-rw-r--  1 jose jose  5425 Aug  1 23:51 exceptions.py
+-rw-rw-r--  1 jose jose  7588 Aug  1 23:51 exceptions.pyc
+-rw-rw-r--  1 jose jose 26441 Aug  1 23:51 ext.py
+-rw-rw-r--  1 jose jose 26317 Aug  1 23:51 ext.pyc
+-rw-rw-r--  1 jose jose 41415 Aug  1 23:51 filters.py
+-rw-rw-r--  1 jose jose 47217 Aug  1 23:51 filters.pyc
+-rw-rw-r--  1 jose jose  1775 Aug  1 23:51 _identifier.py
+-rw-rw-r--  1 jose jose  1905 Aug  1 23:51 _identifier.pyc
+-rw-rw-r--  1 jose jose  9211 Aug  1 23:51 idtracking.py
+-rw-rw-r--  1 jose jose 13718 Aug  1 23:51 idtracking.pyc
+-rw-rw-r--  1 jose jose  1549 Aug  1 23:51 __init__.py
+-rw-rw-r--  1 jose jose  2206 Aug  1 23:51 __init__.pyc
+-rw-rw-r--  1 jose jose 30331 Aug  1 23:51 lexer.py
+-rw-rw-r--  1 jose jose 24710 Aug  1 23:51 lexer.pyc
+-rw-rw-r--  1 jose jose 17666 Aug  1 23:51 loaders.py
+-rw-rw-r--  1 jose jose 20585 Aug  1 23:51 loaders.pyc
+-rw-rw-r--  1 jose jose  4131 Aug  1 23:51 meta.py
+-rw-rw-r--  1 jose jose  4169 Aug  1 23:51 meta.pyc
+-rw-rw-r--  1 jose jose  2753 Aug  1 23:51 nativetypes.py
+-rw-rw-r--  1 jose jose  4633 Aug  1 23:51 nativetypes.pyc
+-rw-rw-r--  1 jose jose 31095 Aug  1 23:51 nodes.py
+-rw-rw-r--  1 jose jose 48625 Aug  1 23:51 nodes.pyc
+-rw-rw-r--  1 jose jose  1457 Aug  1 23:51 optimizer.py
+-rw-rw-r--  1 jose jose  2024 Aug  1 23:51 optimizer.pyc
+-rw-rw-r--  1 jose jose 35660 Aug  1 23:51 parser.py
+-rw-rw-r--  1 jose jose 33121 Aug  1 23:51 parser.pyc
+-rw-rw-r--  1 jose jose 30618 Aug  1 23:51 runtime.py
+-rw-rw-r--  1 jose jose 35177 Aug  1 23:51 runtime.pyc
+-rw-rw-r--  1 jose jose 17127 Aug  1 23:51 sandbox.py
+-rw-rw-r--  1 jose jose 17364 Aug  1 23:51 sandbox.pyc
+-rw-rw-r--  1 jose jose  4799 Aug  1 23:51 tests.py
+-rw-rw-r--  1 jose jose  7636 Aug  1 23:51 tests.pyc
+-rw-rw-r--  1 jose jose 22522 Aug  1 23:51 utils.py
+-rw-rw-r--  1 jose jose 28698 Aug  1 23:51 utils.pyc
+-rw-rw-r--  1 jose jose  3240 Aug  1 23:51 visitor.py
+-rw-rw-r--  1 jose jose  3959 Aug  1 23:51 visitor.pyc
+
+./ve/lib/python2.7/site-packages/Jinja2-2.11.2.dist-info:
+total 36
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   61 Aug  1 23:51 entry_points.txt
+-rw-rw-r--  1 jose jose    4 Aug  1 23:51 INSTALLER
+-rw-rw-r--  1 jose jose 1475 Aug  1 23:51 LICENSE.rst
+-rw-rw-r--  1 jose jose 3535 Aug  1 23:51 METADATA
+-rw-rw-r--  1 jose jose 3190 Aug  1 23:51 RECORD
+-rw-rw-r--  1 jose jose    7 Aug  1 23:51 top_level.txt
+-rw-rw-r--  1 jose jose  110 Aug  1 23:51 WHEEL
+
+./ve/lib/python2.7/site-packages/markupsafe:
+total 112
+drwxrwxr-x  2 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   558 Aug  1 23:51 _compat.py
+-rw-rw-r--  1 jose jose  1050 Aug  1 23:51 _compat.pyc
+-rw-rw-r--  1 jose jose  4690 Aug  1 23:51 _constants.py
+-rw-rw-r--  1 jose jose  6290 Aug  1 23:51 _constants.pyc
+-rw-rw-r--  1 jose jose 10126 Aug  1 23:51 __init__.py
+-rw-rw-r--  1 jose jose 14625 Aug  1 23:51 __init__.pyc
+-rw-rw-r--  1 jose jose  1873 Aug  1 23:51 _native.py
+-rw-rw-r--  1 jose jose  2508 Aug  1 23:51 _native.pyc
+-rw-rw-r--  1 jose jose  9884 Aug  1 23:51 _speedups.c
+-rwxrwxr-x  1 jose jose 29380 Aug  1 23:51 _speedups.so
+
+./ve/lib/python2.7/site-packages/MarkupSafe-1.1.1.dist-info:
+total 32
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose    4 Aug  1 23:51 INSTALLER
+-rw-rw-r--  1 jose jose 1475 Aug  1 23:51 LICENSE.txt
+-rw-rw-r--  1 jose jose 3570 Aug  1 23:51 METADATA
+-rw-rw-r--  1 jose jose 1092 Aug  1 23:51 RECORD
+-rw-rw-r--  1 jose jose   11 Aug  1 23:51 top_level.txt
+-rw-rw-r--  1 jose jose  110 Aug  1 23:51 WHEEL
+
+./ve/lib/python2.7/site-packages/pip:
+total 32
+drwxrwxr-x  4 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose  455 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose  804 Aug  6 15:06 __init__.pyc
+drwxrwxr-x 13 jose jose 4096 Aug  6 15:06 _internal
+-rw-rw-r--  1 jose jose  911 Aug  6 15:06 __main__.py
+-rw-rw-r--  1 jose jose  625 Aug  6 15:06 __main__.pyc
+drwxrwxr-x 19 jose jose 4096 Aug  6 15:06 _vendor
+
+./ve/lib/python2.7/site-packages/pip/_internal:
+total 252
+drwxrwxr-x 13 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x  4 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  8088 Aug  6 15:06 build_env.py
+-rw-rw-r--  1 jose jose  9653 Aug  6 15:06 build_env.pyc
+-rw-rw-r--  1 jose jose 12249 Aug  6 15:06 cache.py
+-rw-rw-r--  1 jose jose 11643 Aug  6 15:06 cache.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 cli
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 commands
+-rw-rw-r--  1 jose jose 14115 Aug  6 15:06 configuration.py
+-rw-rw-r--  1 jose jose 13916 Aug  6 15:06 configuration.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 distributions
+-rw-rw-r--  1 jose jose 12637 Aug  6 15:06 exceptions.py
+-rw-rw-r--  1 jose jose 19500 Aug  6 15:06 exceptions.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 index
+-rw-rw-r--  1 jose jose   495 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   865 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  6732 Aug  6 15:06 locations.py
+-rw-rw-r--  1 jose jose  5598 Aug  6 15:06 locations.pyc
+-rw-rw-r--  1 jose jose   437 Aug  6 15:06 main.py
+-rw-rw-r--  1 jose jose   788 Aug  6 15:06 main.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 models
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 network
+drwxrwxr-x  4 jose jose  4096 Aug  6 15:06 operations
+-rw-rw-r--  1 jose jose  7400 Aug  6 15:06 pyproject.py
+-rw-rw-r--  1 jose jose  4595 Aug  6 15:06 pyproject.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 req
+drwxrwxr-x  4 jose jose  4096 Aug  6 15:06 resolution
+-rw-rw-r--  1 jose jose  6779 Aug  6 15:06 self_outdated_check.py
+-rw-rw-r--  1 jose jose  5930 Aug  6 15:06 self_outdated_check.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 utils
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 vcs
+-rw-rw-r--  1 jose jose  9522 Aug  6 15:06 wheel_builder.py
+-rw-rw-r--  1 jose jose  8650 Aug  6 15:06 wheel_builder.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/cli:
+total 240
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  6547 Aug  6 15:06 autocompletion.py
+-rw-rw-r--  1 jose jose  5595 Aug  6 15:06 autocompletion.pyc
+-rw-rw-r--  1 jose jose  8810 Aug  6 15:06 base_command.py
+-rw-rw-r--  1 jose jose  7904 Aug  6 15:06 base_command.pyc
+-rw-rw-r--  1 jose jose 28782 Aug  6 15:06 cmdoptions.py
+-rw-rw-r--  1 jose jose 25946 Aug  6 15:06 cmdoptions.pyc
+-rw-rw-r--  1 jose jose   975 Aug  6 15:06 command_context.py
+-rw-rw-r--  1 jose jose  1756 Aug  6 15:06 command_context.pyc
+-rw-rw-r--  1 jose jose   132 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   271 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  2843 Aug  6 15:06 main_parser.py
+-rw-rw-r--  1 jose jose  2741 Aug  6 15:06 main_parser.pyc
+-rw-rw-r--  1 jose jose  2616 Aug  6 15:06 main.py
+-rw-rw-r--  1 jose jose  1792 Aug  6 15:06 main.pyc
+-rw-rw-r--  1 jose jose  9480 Aug  6 15:06 parser.py
+-rw-rw-r--  1 jose jose 11049 Aug  6 15:06 parser.pyc
+-rw-rw-r--  1 jose jose  9121 Aug  6 15:06 progress_bars.py
+-rw-rw-r--  1 jose jose 10665 Aug  6 15:06 progress_bars.pyc
+-rw-rw-r--  1 jose jose 15132 Aug  6 15:06 req_command.py
+-rw-rw-r--  1 jose jose 12464 Aug  6 15:06 req_command.pyc
+-rw-rw-r--  1 jose jose  5509 Aug  6 15:06 spinners.py
+-rw-rw-r--  1 jose jose  6719 Aug  6 15:06 spinners.pyc
+-rw-rw-r--  1 jose jose   156 Aug  6 15:06 status_codes.py
+-rw-rw-r--  1 jose jose   435 Aug  6 15:06 status_codes.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/commands:
+total 272
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  5676 Aug  6 15:06 cache.py
+-rw-rw-r--  1 jose jose  5728 Aug  6 15:06 cache.pyc
+-rw-rw-r--  1 jose jose  1677 Aug  6 15:06 check.py
+-rw-rw-r--  1 jose jose  1996 Aug  6 15:06 check.pyc
+-rw-rw-r--  1 jose jose  3081 Aug  6 15:06 completion.py
+-rw-rw-r--  1 jose jose  3655 Aug  6 15:06 completion.pyc
+-rw-rw-r--  1 jose jose  9344 Aug  6 15:06 configuration.py
+-rw-rw-r--  1 jose jose 10001 Aug  6 15:06 configuration.pyc
+-rw-rw-r--  1 jose jose  7314 Aug  6 15:06 debug.py
+-rw-rw-r--  1 jose jose  8304 Aug  6 15:06 debug.pyc
+-rw-rw-r--  1 jose jose  4918 Aug  6 15:06 download.py
+-rw-rw-r--  1 jose jose  4869 Aug  6 15:06 download.pyc
+-rw-rw-r--  1 jose jose  3452 Aug  6 15:06 freeze.py
+-rw-rw-r--  1 jose jose  3837 Aug  6 15:06 freeze.pyc
+-rw-rw-r--  1 jose jose  1843 Aug  6 15:06 hash.py
+-rw-rw-r--  1 jose jose  2804 Aug  6 15:06 hash.pyc
+-rw-rw-r--  1 jose jose  1270 Aug  6 15:06 help.py
+-rw-rw-r--  1 jose jose  1768 Aug  6 15:06 help.pyc
+-rw-rw-r--  1 jose jose  4100 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose  3611 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose 28683 Aug  6 15:06 install.py
+-rw-rw-r--  1 jose jose 20890 Aug  6 15:06 install.pyc
+-rw-rw-r--  1 jose jose 11312 Aug  6 15:06 list.py
+-rw-rw-r--  1 jose jose 10860 Aug  6 15:06 list.pyc
+-rw-rw-r--  1 jose jose  5716 Aug  6 15:06 search.py
+-rw-rw-r--  1 jose jose  6028 Aug  6 15:06 search.pyc
+-rw-rw-r--  1 jose jose  6996 Aug  6 15:06 show.py
+-rw-rw-r--  1 jose jose  6850 Aug  6 15:06 show.pyc
+-rw-rw-r--  1 jose jose  3311 Aug  6 15:06 uninstall.py
+-rw-rw-r--  1 jose jose  3618 Aug  6 15:06 uninstall.pyc
+-rw-rw-r--  1 jose jose  6419 Aug  6 15:06 wheel.py
+-rw-rw-r--  1 jose jose  6000 Aug  6 15:06 wheel.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/distributions:
+total 52
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 1425 Aug  6 15:06 base.py
+-rw-rw-r--  1 jose jose 2318 Aug  6 15:06 base.pyc
+-rw-rw-r--  1 jose jose  959 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose 1033 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  760 Aug  6 15:06 installed.py
+-rw-rw-r--  1 jose jose 1520 Aug  6 15:06 installed.pyc
+-rw-rw-r--  1 jose jose 4086 Aug  6 15:06 sdist.py
+-rw-rw-r--  1 jose jose 4258 Aug  6 15:06 sdist.pyc
+-rw-rw-r--  1 jose jose 1294 Aug  6 15:06 wheel.py
+-rw-rw-r--  1 jose jose 1913 Aug  6 15:06 wheel.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/index:
+total 136
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 22838 Aug  6 15:06 collector.py
+-rw-rw-r--  1 jose jose 24000 Aug  6 15:06 collector.pyc
+-rw-rw-r--  1 jose jose    30 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   225 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose 37364 Aug  6 15:06 package_finder.py
+-rw-rw-r--  1 jose jose 31570 Aug  6 15:06 package_finder.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/models:
+total 132
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 1195 Aug  6 15:06 candidate.py
+-rw-rw-r--  1 jose jose 1904 Aug  6 15:06 candidate.pyc
+-rw-rw-r--  1 jose jose 6900 Aug  6 15:06 direct_url.py
+-rw-rw-r--  1 jose jose 9436 Aug  6 15:06 direct_url.pyc
+-rw-rw-r--  1 jose jose 2823 Aug  6 15:06 format_control.py
+-rw-rw-r--  1 jose jose 3831 Aug  6 15:06 format_control.pyc
+-rw-rw-r--  1 jose jose 1161 Aug  6 15:06 index.py
+-rw-rw-r--  1 jose jose 1543 Aug  6 15:06 index.pyc
+-rw-rw-r--  1 jose jose   63 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose  259 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose 7470 Aug  6 15:06 link.py
+-rw-rw-r--  1 jose jose 9869 Aug  6 15:06 link.pyc
+-rw-rw-r--  1 jose jose  778 Aug  6 15:06 scheme.py
+-rw-rw-r--  1 jose jose 1188 Aug  6 15:06 scheme.pyc
+-rw-rw-r--  1 jose jose 4751 Aug  6 15:06 search_scope.py
+-rw-rw-r--  1 jose jose 4221 Aug  6 15:06 search_scope.pyc
+-rw-rw-r--  1 jose jose 2044 Aug  6 15:06 selection_prefs.py
+-rw-rw-r--  1 jose jose 1977 Aug  6 15:06 selection_prefs.pyc
+-rw-rw-r--  1 jose jose 4034 Aug  6 15:06 target_python.py
+-rw-rw-r--  1 jose jose 4188 Aug  6 15:06 target_python.pyc
+-rw-rw-r--  1 jose jose 2772 Aug  6 15:06 wheel.py
+-rw-rw-r--  1 jose jose 4090 Aug  6 15:06 wheel.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/network:
+total 132
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 11610 Aug  6 15:06 auth.py
+-rw-rw-r--  1 jose jose  8869 Aug  6 15:06 auth.pyc
+-rw-rw-r--  1 jose jose  2329 Aug  6 15:06 cache.py
+-rw-rw-r--  1 jose jose  3604 Aug  6 15:06 cache.pyc
+-rw-rw-r--  1 jose jose  5151 Aug  6 15:06 download.py
+-rw-rw-r--  1 jose jose  6091 Aug  6 15:06 download.pyc
+-rw-rw-r--  1 jose jose    50 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   247 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  8035 Aug  6 15:06 lazy_wheel.py
+-rw-rw-r--  1 jose jose 10415 Aug  6 15:06 lazy_wheel.pyc
+-rw-rw-r--  1 jose jose 15208 Aug  6 15:06 session.py
+-rw-rw-r--  1 jose jose 12144 Aug  6 15:06 session.pyc
+-rw-rw-r--  1 jose jose  4172 Aug  6 15:06 utils.py
+-rw-rw-r--  1 jose jose  1828 Aug  6 15:06 utils.pyc
+-rw-rw-r--  1 jose jose  1882 Aug  6 15:06 xmlrpc.py
+-rw-rw-r--  1 jose jose  2388 Aug  6 15:06 xmlrpc.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/operations:
+total 92
+drwxrwxr-x  4 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose  4096 Aug  6 15:06 ..
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 build
+-rw-rw-r--  1 jose jose  5215 Aug  6 15:06 check.py
+-rw-rw-r--  1 jose jose  4776 Aug  6 15:06 check.pyc
+-rw-rw-r--  1 jose jose 10373 Aug  6 15:06 freeze.py
+-rw-rw-r--  1 jose jose  7626 Aug  6 15:06 freeze.pyc
+-rw-rw-r--  1 jose jose     0 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   184 Aug  6 15:06 __init__.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 install
+-rw-rw-r--  1 jose jose 19903 Aug  6 15:06 prepare.py
+-rw-rw-r--  1 jose jose 14641 Aug  6 15:06 prepare.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/operations/build:
+total 44
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 4 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose    0 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  190 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose 2011 Aug  6 15:06 metadata_legacy.py
+-rw-rw-r-- 1 jose jose 2337 Aug  6 15:06 metadata_legacy.pyc
+-rw-rw-r-- 1 jose jose 1254 Aug  6 15:06 metadata.py
+-rw-rw-r-- 1 jose jose 1432 Aug  6 15:06 metadata.pyc
+-rw-rw-r-- 1 jose jose 3356 Aug  6 15:06 wheel_legacy.py
+-rw-rw-r-- 1 jose jose 3311 Aug  6 15:06 wheel_legacy.pyc
+-rw-rw-r-- 1 jose jose 1465 Aug  6 15:06 wheel.py
+-rw-rw-r-- 1 jose jose 1619 Aug  6 15:06 wheel.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/operations/install:
+total 96
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 4 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose  1488 Aug  6 15:06 editable_legacy.py
+-rw-rw-r-- 1 jose jose  1632 Aug  6 15:06 editable_legacy.pyc
+-rw-rw-r-- 1 jose jose    51 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose   259 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose  4281 Aug  6 15:06 legacy.py
+-rw-rw-r-- 1 jose jose  4072 Aug  6 15:06 legacy.pyc
+-rw-rw-r-- 1 jose jose 31310 Aug  6 15:06 wheel.py
+-rw-rw-r-- 1 jose jose 27569 Aug  6 15:06 wheel.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/req:
+total 236
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 16387 Aug  6 15:06 constructors.py
+-rw-rw-r--  1 jose jose 14266 Aug  6 15:06 constructors.pyc
+-rw-rw-r--  1 jose jose  3133 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose  3259 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose 19448 Aug  6 15:06 req_file.py
+-rw-rw-r--  1 jose jose 16962 Aug  6 15:06 req_file.pyc
+-rw-rw-r--  1 jose jose 33080 Aug  6 15:06 req_install.py
+-rw-rw-r--  1 jose jose 26683 Aug  6 15:06 req_install.pyc
+-rw-rw-r--  1 jose jose  7886 Aug  6 15:06 req_set.py
+-rw-rw-r--  1 jose jose  7451 Aug  6 15:06 req_set.pyc
+-rw-rw-r--  1 jose jose  4690 Aug  6 15:06 req_tracker.py
+-rw-rw-r--  1 jose jose  5523 Aug  6 15:06 req_tracker.pyc
+-rw-rw-r--  1 jose jose 23706 Aug  6 15:06 req_uninstall.py
+-rw-rw-r--  1 jose jose 22936 Aug  6 15:06 req_uninstall.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/resolution:
+total 28
+drwxrwxr-x  4 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  682 Aug  6 15:06 base.py
+-rw-rw-r--  1 jose jose 1334 Aug  6 15:06 base.pyc
+-rw-rw-r--  1 jose jose    0 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose  184 Aug  6 15:06 __init__.pyc
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:06 legacy
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:06 resolvelib
+
+./ve/lib/python2.7/site-packages/pip/_internal/resolution/legacy:
+total 48
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 4 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose     0 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose   191 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose 18755 Aug  6 15:06 resolver.py
+-rw-rw-r-- 1 jose jose 14353 Aug  6 15:06 resolver.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/resolution/resolvelib:
+total 160
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 4 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose  2342 Aug  6 15:06 base.py
+-rw-rw-r-- 1 jose jose  4956 Aug  6 15:06 base.pyc
+-rw-rw-r-- 1 jose jose 20339 Aug  6 15:06 candidates.py
+-rw-rw-r-- 1 jose jose 24407 Aug  6 15:06 candidates.pyc
+-rw-rw-r-- 1 jose jose 17169 Aug  6 15:06 factory.py
+-rw-rw-r-- 1 jose jose 13966 Aug  6 15:06 factory.pyc
+-rw-rw-r-- 1 jose jose     0 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose   195 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose  6134 Aug  6 15:06 provider.py
+-rw-rw-r-- 1 jose jose  5011 Aug  6 15:06 provider.pyc
+-rw-rw-r-- 1 jose jose  4511 Aug  6 15:06 requirements.py
+-rw-rw-r-- 1 jose jose  7175 Aug  6 15:06 requirements.pyc
+-rw-rw-r-- 1 jose jose 10077 Aug  6 15:06 resolver.py
+-rw-rw-r-- 1 jose jose  8590 Aug  6 15:06 resolver.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/utils:
+total 412
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  1349 Aug  6 15:06 appdirs.py
+-rw-rw-r--  1 jose jose  1876 Aug  6 15:06 appdirs.pyc
+-rw-rw-r--  1 jose jose  5439 Aug  6 15:06 compatibility_tags.py
+-rw-rw-r--  1 jose jose  4651 Aug  6 15:06 compatibility_tags.pyc
+-rw-rw-r--  1 jose jose  8865 Aug  6 15:06 compat.py
+-rw-rw-r--  1 jose jose  8051 Aug  6 15:06 compat.pyc
+-rw-rw-r--  1 jose jose   295 Aug  6 15:06 datetime.py
+-rw-rw-r--  1 jose jose   655 Aug  6 15:06 datetime.pyc
+-rw-rw-r--  1 jose jose  3318 Aug  6 15:06 deprecation.py
+-rw-rw-r--  1 jose jose  3614 Aug  6 15:06 deprecation.pyc
+-rw-rw-r--  1 jose jose  4359 Aug  6 15:06 direct_url_helpers.py
+-rw-rw-r--  1 jose jose  3509 Aug  6 15:06 direct_url_helpers.pyc
+-rw-rw-r--  1 jose jose  1350 Aug  6 15:06 distutils_args.py
+-rw-rw-r--  1 jose jose  1673 Aug  6 15:06 distutils_args.pyc
+-rw-rw-r--  1 jose jose  1284 Aug  6 15:06 encoding.py
+-rw-rw-r--  1 jose jose  1679 Aug  6 15:06 encoding.pyc
+-rw-rw-r--  1 jose jose  1152 Aug  6 15:06 entrypoints.py
+-rw-rw-r--  1 jose jose  1497 Aug  6 15:06 entrypoints.pyc
+-rw-rw-r--  1 jose jose  6943 Aug  6 15:06 filesystem.py
+-rw-rw-r--  1 jose jose  7834 Aug  6 15:06 filesystem.pyc
+-rw-rw-r--  1 jose jose   571 Aug  6 15:06 filetypes.py
+-rw-rw-r--  1 jose jose   807 Aug  6 15:06 filetypes.pyc
+-rw-rw-r--  1 jose jose  3297 Aug  6 15:06 glibc.py
+-rw-rw-r--  1 jose jose  2318 Aug  6 15:06 glibc.pyc
+-rw-rw-r--  1 jose jose  4358 Aug  6 15:06 hashes.py
+-rw-rw-r--  1 jose jose  6033 Aug  6 15:06 hashes.pyc
+-rw-rw-r--  1 jose jose     0 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   179 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose   810 Aug  6 15:06 inject_securetransport.py
+-rw-rw-r--  1 jose jose  1124 Aug  6 15:06 inject_securetransport.pyc
+-rw-rw-r--  1 jose jose 13093 Aug  6 15:06 logging.py
+-rw-rw-r--  1 jose jose 12292 Aug  6 15:06 logging.pyc
+-rw-rw-r--  1 jose jose 27394 Aug  6 15:06 misc.py
+-rw-rw-r--  1 jose jose 33268 Aug  6 15:06 misc.pyc
+-rw-rw-r--  1 jose jose  1201 Aug  6 15:06 models.py
+-rw-rw-r--  1 jose jose  2778 Aug  6 15:06 models.pyc
+-rw-rw-r--  1 jose jose  3035 Aug  6 15:06 packaging.py
+-rw-rw-r--  1 jose jose  3423 Aug  6 15:06 packaging.pyc
+-rw-rw-r--  1 jose jose  3404 Aug  6 15:06 parallel.py
+-rw-rw-r--  1 jose jose  3780 Aug  6 15:06 parallel.pyc
+-rw-rw-r--  1 jose jose  1254 Aug  6 15:06 pkg_resources.py
+-rw-rw-r--  1 jose jose  2587 Aug  6 15:06 pkg_resources.pyc
+-rw-rw-r--  1 jose jose  5058 Aug  6 15:06 setuptools_build.py
+-rw-rw-r--  1 jose jose  4027 Aug  6 15:06 setuptools_build.pyc
+-rw-rw-r--  1 jose jose  9924 Aug  6 15:06 subprocess.py
+-rw-rw-r--  1 jose jose  7066 Aug  6 15:06 subprocess.pyc
+-rw-rw-r--  1 jose jose  8378 Aug  6 15:06 temp_dir.py
+-rw-rw-r--  1 jose jose  9259 Aug  6 15:06 temp_dir.pyc
+-rw-rw-r--  1 jose jose  1401 Aug  6 15:06 typing.py
+-rw-rw-r--  1 jose jose  1589 Aug  6 15:06 typing.pyc
+-rw-rw-r--  1 jose jose  9488 Aug  6 15:06 unpacking.py
+-rw-rw-r--  1 jose jose  8167 Aug  6 15:06 unpacking.pyc
+-rw-rw-r--  1 jose jose  1527 Aug  6 15:06 urls.py
+-rw-rw-r--  1 jose jose  2051 Aug  6 15:06 urls.pyc
+-rw-rw-r--  1 jose jose  3553 Aug  6 15:06 virtualenv.py
+-rw-rw-r--  1 jose jose  4273 Aug  6 15:06 virtualenv.pyc
+-rw-rw-r--  1 jose jose  7303 Aug  6 15:06 wheel.py
+-rw-rw-r--  1 jose jose  7625 Aug  6 15:06 wheel.pyc
+
+./ve/lib/python2.7/site-packages/pip/_internal/vcs:
+total 160
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 13 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  3887 Aug  6 15:06 bazaar.py
+-rw-rw-r--  1 jose jose  5175 Aug  6 15:06 bazaar.pyc
+-rw-rw-r--  1 jose jose 13985 Aug  6 15:06 git.py
+-rw-rw-r--  1 jose jose 12453 Aug  6 15:06 git.pyc
+-rw-rw-r--  1 jose jose   617 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   534 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  5162 Aug  6 15:06 mercurial.py
+-rw-rw-r--  1 jose jose  6560 Aug  6 15:06 mercurial.pyc
+-rw-rw-r--  1 jose jose 12399 Aug  6 15:06 subversion.py
+-rw-rw-r--  1 jose jose 10600 Aug  6 15:06 subversion.pyc
+-rw-rw-r--  1 jose jose 25966 Aug  6 15:06 versioncontrol.py
+-rw-rw-r--  1 jose jose 26782 Aug  6 15:06 versioncontrol.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor:
+total 1096
+drwxrwxr-x 19 jose jose   4096 Aug  6 15:06 .
+drwxrwxr-x  4 jose jose   4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  25907 Aug  6 15:06 appdirs.py
+-rw-rw-r--  1 jose jose  24634 Aug  6 15:06 appdirs.pyc
+drwxrwxr-x  3 jose jose   4096 Aug  6 15:06 cachecontrol
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 certifi
+drwxrwxr-x  3 jose jose   4096 Aug  6 15:06 chardet
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 colorama
+-rw-rw-r--  1 jose jose  16915 Aug  6 15:06 contextlib2.py
+-rw-rw-r--  1 jose jose  20666 Aug  6 15:06 contextlib2.pyc
+drwxrwxr-x  3 jose jose   4096 Aug  6 15:06 distlib
+-rw-rw-r--  1 jose jose  43628 Aug  6 15:06 distro.py
+-rw-rw-r--  1 jose jose  42226 Aug  6 15:06 distro.pyc
+drwxrwxr-x  7 jose jose   4096 Aug  6 15:06 html5lib
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 idna
+-rw-rw-r--  1 jose jose   4588 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   3488 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  79875 Aug  6 15:06 ipaddress.py
+-rw-rw-r--  1 jose jose  82615 Aug  6 15:06 ipaddress.pyc
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 msgpack
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 packaging
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 pep517
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 pkg_resources
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 progress
+-rw-rw-r--  1 jose jose 273394 Aug  6 15:06 pyparsing.py
+-rw-rw-r--  1 jose jose 292934 Aug  6 15:06 pyparsing.pyc
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 requests
+drwxrwxr-x  3 jose jose   4096 Aug  6 15:06 resolvelib
+-rw-rw-r--  1 jose jose   9972 Aug  6 15:06 retrying.py
+-rw-rw-r--  1 jose jose  11073 Aug  6 15:06 retrying.pyc
+-rw-rw-r--  1 jose jose  34159 Aug  6 15:06 six.py
+-rw-rw-r--  1 jose jose  36446 Aug  6 15:06 six.pyc
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 toml
+drwxrwxr-x  5 jose jose   4096 Aug  6 15:06 urllib3
+-rw-rw-r--  1 jose jose    437 Aug  6 15:06 vendor.txt
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 webencodings
+
+./ve/lib/python2.7/site-packages/pip/_vendor/cachecontrol:
+total 128
+drwxrwxr-x  3 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  4882 Aug  6 15:06 adapter.py
+-rw-rw-r--  1 jose jose  3926 Aug  6 15:06 adapter.pyc
+-rw-rw-r--  1 jose jose   805 Aug  6 15:06 cache.py
+-rw-rw-r--  1 jose jose  2714 Aug  6 15:06 cache.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 caches
+-rw-rw-r--  1 jose jose  1295 Aug  6 15:06 _cmd.py
+-rw-rw-r--  1 jose jose  2193 Aug  6 15:06 _cmd.pyc
+-rw-rw-r--  1 jose jose   695 Aug  6 15:06 compat.py
+-rw-rw-r--  1 jose jose   830 Aug  6 15:06 compat.pyc
+-rw-rw-r--  1 jose jose 14149 Aug  6 15:06 controller.py
+-rw-rw-r--  1 jose jose 10011 Aug  6 15:06 controller.pyc
+-rw-rw-r--  1 jose jose  2533 Aug  6 15:06 filewrapper.py
+-rw-rw-r--  1 jose jose  2891 Aug  6 15:06 filewrapper.pyc
+-rw-rw-r--  1 jose jose  4070 Aug  6 15:06 heuristics.py
+-rw-rw-r--  1 jose jose  6369 Aug  6 15:06 heuristics.pyc
+-rw-rw-r--  1 jose jose   302 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   611 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  7091 Aug  6 15:06 serialize.py
+-rw-rw-r--  1 jose jose  6116 Aug  6 15:06 serialize.pyc
+-rw-rw-r--  1 jose jose   690 Aug  6 15:06 wrapper.py
+-rw-rw-r--  1 jose jose   885 Aug  6 15:06 wrapper.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches:
+total 40
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose 4153 Aug  6 15:06 file_cache.py
+-rw-rw-r-- 1 jose jose 4541 Aug  6 15:06 file_cache.pyc
+-rw-rw-r-- 1 jose jose   86 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  310 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose  856 Aug  6 15:06 redis_cache.py
+-rw-rw-r-- 1 jose jose 2348 Aug  6 15:06 redis_cache.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/certifi:
+total 308
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose   4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 282394 Aug  6 15:06 cacert.pem
+-rw-rw-r--  1 jose jose   2315 Aug  6 15:06 core.py
+-rw-rw-r--  1 jose jose   1665 Aug  6 15:06 core.pyc
+-rw-rw-r--  1 jose jose     62 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose    292 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose    255 Aug  6 15:06 __main__.py
+-rw-rw-r--  1 jose jose    500 Aug  6 15:06 __main__.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/chardet:
+total 1028
+drwxrwxr-x  3 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 31254 Aug  6 15:06 big5freq.py
+-rw-rw-r--  1 jose jose 54729 Aug  6 15:06 big5freq.pyc
+-rw-rw-r--  1 jose jose  1757 Aug  6 15:06 big5prober.py
+-rw-rw-r--  1 jose jose  1497 Aug  6 15:06 big5prober.pyc
+-rw-rw-r--  1 jose jose  9411 Aug  6 15:06 chardistribution.py
+-rw-rw-r--  1 jose jose  8579 Aug  6 15:06 chardistribution.pyc
+-rw-rw-r--  1 jose jose  3787 Aug  6 15:06 charsetgroupprober.py
+-rw-rw-r--  1 jose jose  3097 Aug  6 15:06 charsetgroupprober.pyc
+-rw-rw-r--  1 jose jose  5110 Aug  6 15:06 charsetprober.py
+-rw-rw-r--  1 jose jose  4457 Aug  6 15:06 charsetprober.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 cli
+-rw-rw-r--  1 jose jose  3590 Aug  6 15:06 codingstatemachine.py
+-rw-rw-r--  1 jose jose  3584 Aug  6 15:06 codingstatemachine.pyc
+-rw-rw-r--  1 jose jose  1134 Aug  6 15:06 compat.py
+-rw-rw-r--  1 jose jose   432 Aug  6 15:06 compat.pyc
+-rw-rw-r--  1 jose jose  1855 Aug  6 15:06 cp949prober.py
+-rw-rw-r--  1 jose jose  1505 Aug  6 15:06 cp949prober.pyc
+-rw-rw-r--  1 jose jose  1661 Aug  6 15:06 enums.py
+-rw-rw-r--  1 jose jose  3353 Aug  6 15:06 enums.pyc
+-rw-rw-r--  1 jose jose  3950 Aug  6 15:06 escprober.py
+-rw-rw-r--  1 jose jose  3455 Aug  6 15:06 escprober.pyc
+-rw-rw-r--  1 jose jose 10510 Aug  6 15:06 escsm.py
+-rw-rw-r--  1 jose jose  8043 Aug  6 15:06 escsm.pyc
+-rw-rw-r--  1 jose jose  3749 Aug  6 15:06 eucjpprober.py
+-rw-rw-r--  1 jose jose  3270 Aug  6 15:06 eucjpprober.pyc
+-rw-rw-r--  1 jose jose 13546 Aug  6 15:06 euckrfreq.py
+-rw-rw-r--  1 jose jose 24115 Aug  6 15:06 euckrfreq.pyc
+-rw-rw-r--  1 jose jose  1748 Aug  6 15:06 euckrprober.py
+-rw-rw-r--  1 jose jose  1506 Aug  6 15:06 euckrprober.pyc
+-rw-rw-r--  1 jose jose 31621 Aug  6 15:06 euctwfreq.py
+-rw-rw-r--  1 jose jose 54738 Aug  6 15:06 euctwfreq.pyc
+-rw-rw-r--  1 jose jose  1747 Aug  6 15:06 euctwprober.py
+-rw-rw-r--  1 jose jose  1506 Aug  6 15:06 euctwprober.pyc
+-rw-rw-r--  1 jose jose 20715 Aug  6 15:06 gb2312freq.py
+-rw-rw-r--  1 jose jose 38380 Aug  6 15:06 gb2312freq.pyc
+-rw-rw-r--  1 jose jose  1754 Aug  6 15:06 gb2312prober.py
+-rw-rw-r--  1 jose jose  1515 Aug  6 15:06 gb2312prober.pyc
+-rw-rw-r--  1 jose jose 13838 Aug  6 15:06 hebrewprober.py
+-rw-rw-r--  1 jose jose  4122 Aug  6 15:06 hebrewprober.pyc
+-rw-rw-r--  1 jose jose  1559 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose  1050 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose 25777 Aug  6 15:06 jisfreq.py
+-rw-rw-r--  1 jose jose 44524 Aug  6 15:06 jisfreq.pyc
+-rw-rw-r--  1 jose jose 19643 Aug  6 15:06 jpcntx.py
+-rw-rw-r--  1 jose jose 25722 Aug  6 15:06 jpcntx.pyc
+-rw-rw-r--  1 jose jose 12839 Aug  6 15:06 langbulgarianmodel.py
+-rw-rw-r--  1 jose jose 24992 Aug  6 15:06 langbulgarianmodel.pyc
+-rw-rw-r--  1 jose jose 17948 Aug  6 15:06 langcyrillicmodel.py
+-rw-rw-r--  1 jose jose 30712 Aug  6 15:06 langcyrillicmodel.pyc
+-rw-rw-r--  1 jose jose 12688 Aug  6 15:06 langgreekmodel.py
+-rw-rw-r--  1 jose jose 24667 Aug  6 15:06 langgreekmodel.pyc
+-rw-rw-r--  1 jose jose 11345 Aug  6 15:06 langhebrewmodel.py
+-rw-rw-r--  1 jose jose 23478 Aug  6 15:06 langhebrewmodel.pyc
+-rw-rw-r--  1 jose jose 12592 Aug  6 15:06 langhungarianmodel.py
+-rw-rw-r--  1 jose jose 24962 Aug  6 15:06 langhungarianmodel.pyc
+-rw-rw-r--  1 jose jose 11290 Aug  6 15:06 langthaimodel.py
+-rw-rw-r--  1 jose jose 23457 Aug  6 15:06 langthaimodel.pyc
+-rw-rw-r--  1 jose jose 11102 Aug  6 15:06 langturkishmodel.py
+-rw-rw-r--  1 jose jose 23474 Aug  6 15:06 langturkishmodel.pyc
+-rw-rw-r--  1 jose jose  5370 Aug  6 15:06 latin1prober.py
+-rw-rw-r--  1 jose jose  3965 Aug  6 15:06 latin1prober.pyc
+-rw-rw-r--  1 jose jose  3413 Aug  6 15:06 mbcharsetprober.py
+-rw-rw-r--  1 jose jose  3019 Aug  6 15:06 mbcharsetprober.pyc
+-rw-rw-r--  1 jose jose  2012 Aug  6 15:06 mbcsgroupprober.py
+-rw-rw-r--  1 jose jose  1420 Aug  6 15:06 mbcsgroupprober.pyc
+-rw-rw-r--  1 jose jose 25481 Aug  6 15:06 mbcssm.py
+-rw-rw-r--  1 jose jose 19149 Aug  6 15:06 mbcssm.pyc
+-rw-rw-r--  1 jose jose  5657 Aug  6 15:06 sbcharsetprober.py
+-rw-rw-r--  1 jose jose  3898 Aug  6 15:06 sbcharsetprober.pyc
+-rw-rw-r--  1 jose jose  3546 Aug  6 15:06 sbcsgroupprober.py
+-rw-rw-r--  1 jose jose  2013 Aug  6 15:06 sbcsgroupprober.pyc
+-rw-rw-r--  1 jose jose  3774 Aug  6 15:06 sjisprober.py
+-rw-rw-r--  1 jose jose  3291 Aug  6 15:06 sjisprober.pyc
+-rw-rw-r--  1 jose jose 12485 Aug  6 15:06 universaldetector.py
+-rw-rw-r--  1 jose jose  7289 Aug  6 15:06 universaldetector.pyc
+-rw-rw-r--  1 jose jose  2766 Aug  6 15:06 utf8prober.py
+-rw-rw-r--  1 jose jose  2740 Aug  6 15:06 utf8prober.pyc
+-rw-rw-r--  1 jose jose   242 Aug  6 15:06 version.py
+-rw-rw-r--  1 jose jose   459 Aug  6 15:06 version.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/chardet/cli:
+total 24
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose 2774 Aug  6 15:06 chardetect.py
+-rw-rw-r-- 1 jose jose 3274 Aug  6 15:06 chardetect.pyc
+-rw-rw-r-- 1 jose jose    1 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  183 Aug  6 15:06 __init__.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/colorama:
+total 92
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  2524 Aug  6 15:06 ansi.py
+-rw-rw-r--  1 jose jose  4880 Aug  6 15:06 ansi.pyc
+-rw-rw-r--  1 jose jose 10462 Aug  6 15:06 ansitowin32.py
+-rw-rw-r--  1 jose jose 10676 Aug  6 15:06 ansitowin32.pyc
+-rw-rw-r--  1 jose jose  1915 Aug  6 15:06 initialise.py
+-rw-rw-r--  1 jose jose  2550 Aug  6 15:06 initialise.pyc
+-rw-rw-r--  1 jose jose   239 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   511 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  5404 Aug  6 15:06 win32.py
+-rw-rw-r--  1 jose jose  5596 Aug  6 15:06 win32.pyc
+-rw-rw-r--  1 jose jose  6438 Aug  6 15:06 winterm.py
+-rw-rw-r--  1 jose jose  6593 Aug  6 15:06 winterm.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/distlib:
+total 1192
+drwxrwxr-x  3 jose jose   4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose   4096 Aug  6 15:06 ..
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 _backport
+-rw-rw-r--  1 jose jose  41408 Aug  6 15:06 compat.py
+-rw-rw-r--  1 jose jose  42471 Aug  6 15:06 compat.pyc
+-rw-rw-r--  1 jose jose  51059 Aug  6 15:06 database.py
+-rw-rw-r--  1 jose jose  52335 Aug  6 15:06 database.pyc
+-rw-rw-r--  1 jose jose  21066 Aug  6 15:06 index.py
+-rw-rw-r--  1 jose jose  20600 Aug  6 15:06 index.pyc
+-rw-rw-r--  1 jose jose    581 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   1509 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  52100 Aug  6 15:06 locators.py
+-rw-rw-r--  1 jose jose  48475 Aug  6 15:06 locators.pyc
+-rw-rw-r--  1 jose jose  14811 Aug  6 15:06 manifest.py
+-rw-rw-r--  1 jose jose  12602 Aug  6 15:06 manifest.pyc
+-rw-rw-r--  1 jose jose   4387 Aug  6 15:06 markers.py
+-rw-rw-r--  1 jose jose   6751 Aug  6 15:06 markers.pyc
+-rw-rw-r--  1 jose jose  38962 Aug  6 15:06 metadata.py
+-rw-rw-r--  1 jose jose  36370 Aug  6 15:06 metadata.pyc
+-rw-rw-r--  1 jose jose  10766 Aug  6 15:06 resources.py
+-rw-rw-r--  1 jose jose  15117 Aug  6 15:06 resources.pyc
+-rw-rw-r--  1 jose jose  17180 Aug  6 15:06 scripts.py
+-rw-rw-r--  1 jose jose  13907 Aug  6 15:06 scripts.pyc
+-rw-rw-r--  1 jose jose  96768 Aug  6 15:06 t32.exe
+-rw-rw-r--  1 jose jose 105984 Aug  6 15:06 t64.exe
+-rw-rw-r--  1 jose jose  59845 Aug  6 15:06 util.py
+-rw-rw-r--  1 jose jose  65258 Aug  6 15:06 util.pyc
+-rw-rw-r--  1 jose jose  23391 Aug  6 15:06 version.py
+-rw-rw-r--  1 jose jose  28320 Aug  6 15:06 version.pyc
+-rw-rw-r--  1 jose jose  90112 Aug  6 15:06 w32.exe
+-rw-rw-r--  1 jose jose  99840 Aug  6 15:06 w64.exe
+-rw-rw-r--  1 jose jose  41144 Aug  6 15:06 wheel.py
+-rw-rw-r--  1 jose jose  33414 Aug  6 15:06 wheel.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/distlib/_backport:
+total 312
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 3 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose   274 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose   479 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose   971 Aug  6 15:06 misc.py
+-rw-rw-r-- 1 jose jose  1540 Aug  6 15:06 misc.pyc
+-rw-rw-r-- 1 jose jose 25707 Aug  6 15:06 shutil.py
+-rw-rw-r-- 1 jose jose 27671 Aug  6 15:06 shutil.pyc
+-rw-rw-r-- 1 jose jose  2617 Aug  6 15:06 sysconfig.cfg
+-rw-rw-r-- 1 jose jose 26854 Aug  6 15:06 sysconfig.py
+-rw-rw-r-- 1 jose jose 21693 Aug  6 15:06 sysconfig.pyc
+-rw-rw-r-- 1 jose jose 92628 Aug  6 15:06 tarfile.py
+-rw-rw-r-- 1 jose jose 83912 Aug  6 15:06 tarfile.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/html5lib:
+total 728
+drwxrwxr-x  7 jose jose   4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose   4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  83464 Aug  6 15:06 constants.py
+-rw-rw-r--  1 jose jose  83684 Aug  6 15:06 constants.pyc
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 filters
+-rw-rw-r--  1 jose jose 117186 Aug  6 15:06 html5parser.py
+-rw-rw-r--  1 jose jose 129494 Aug  6 15:06 html5parser.pyc
+-rw-rw-r--  1 jose jose  16728 Aug  6 15:06 _ihatexml.py
+-rw-rw-r--  1 jose jose  16091 Aug  6 15:06 _ihatexml.pyc
+-rw-rw-r--  1 jose jose   1160 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   1474 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  32353 Aug  6 15:06 _inputstream.py
+-rw-rw-r--  1 jose jose  29340 Aug  6 15:06 _inputstream.pyc
+-rw-rw-r--  1 jose jose  15759 Aug  6 15:06 serializer.py
+-rw-rw-r--  1 jose jose  13724 Aug  6 15:06 serializer.pyc
+-rw-rw-r--  1 jose jose  77040 Aug  6 15:06 _tokenizer.py
+-rw-rw-r--  1 jose jose  56306 Aug  6 15:06 _tokenizer.pyc
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 treeadapters
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 treebuilders
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 treewalkers
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 _trie
+-rw-rw-r--  1 jose jose   4931 Aug  6 15:06 _utils.py
+-rw-rw-r--  1 jose jose   6698 Aug  6 15:06 _utils.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/html5lib/filters:
+total 128
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 7 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose   919 Aug  6 15:06 alphabeticalattributes.py
+-rw-rw-r-- 1 jose jose  1800 Aug  6 15:06 alphabeticalattributes.pyc
+-rw-rw-r-- 1 jose jose   286 Aug  6 15:06 base.py
+-rw-rw-r-- 1 jose jose  1246 Aug  6 15:06 base.pyc
+-rw-rw-r-- 1 jose jose     0 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose   188 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose  2945 Aug  6 15:06 inject_meta_charset.py
+-rw-rw-r-- 1 jose jose  2572 Aug  6 15:06 inject_meta_charset.pyc
+-rw-rw-r-- 1 jose jose  3643 Aug  6 15:06 lint.py
+-rw-rw-r-- 1 jose jose  3424 Aug  6 15:06 lint.pyc
+-rw-rw-r-- 1 jose jose 10588 Aug  6 15:06 optionaltags.py
+-rw-rw-r-- 1 jose jose  4640 Aug  6 15:06 optionaltags.pyc
+-rw-rw-r-- 1 jose jose 26897 Aug  6 15:06 sanitizer.py
+-rw-rw-r-- 1 jose jose 27767 Aug  6 15:06 sanitizer.pyc
+-rw-rw-r-- 1 jose jose  1214 Aug  6 15:06 whitespace.py
+-rw-rw-r-- 1 jose jose  1865 Aug  6 15:06 whitespace.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters:
+total 32
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 7 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose 1715 Aug  6 15:06 genshi.py
+-rw-rw-r-- 1 jose jose 1935 Aug  6 15:06 genshi.pyc
+-rw-rw-r-- 1 jose jose  679 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose 1003 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose 1776 Aug  6 15:06 sax.py
+-rw-rw-r-- 1 jose jose 1932 Aug  6 15:06 sax.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders:
+total 144
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 7 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose 14565 Aug  6 15:06 base.py
+-rw-rw-r-- 1 jose jose 15419 Aug  6 15:06 base.pyc
+-rw-rw-r-- 1 jose jose  8925 Aug  6 15:06 dom.py
+-rw-rw-r-- 1 jose jose 12779 Aug  6 15:06 dom.pyc
+-rw-rw-r-- 1 jose jose 14766 Aug  6 15:06 etree_lxml.py
+-rw-rw-r-- 1 jose jose 17893 Aug  6 15:06 etree_lxml.pyc
+-rw-rw-r-- 1 jose jose 12836 Aug  6 15:06 etree.py
+-rw-rw-r-- 1 jose jose 15972 Aug  6 15:06 etree.pyc
+-rw-rw-r-- 1 jose jose  3592 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  3624 Aug  6 15:06 __init__.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers:
+total 96
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 7 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose  7476 Aug  6 15:06 base.py
+-rw-rw-r-- 1 jose jose  9332 Aug  6 15:06 base.pyc
+-rw-rw-r-- 1 jose jose  1413 Aug  6 15:06 dom.py
+-rw-rw-r-- 1 jose jose  2403 Aug  6 15:06 dom.pyc
+-rw-rw-r-- 1 jose jose  6357 Aug  6 15:06 etree_lxml.py
+-rw-rw-r-- 1 jose jose 10101 Aug  6 15:06 etree_lxml.pyc
+-rw-rw-r-- 1 jose jose  4551 Aug  6 15:06 etree.py
+-rw-rw-r-- 1 jose jose  4637 Aug  6 15:06 etree.pyc
+-rw-rw-r-- 1 jose jose  2309 Aug  6 15:06 genshi.py
+-rw-rw-r-- 1 jose jose  2550 Aug  6 15:06 genshi.pyc
+-rw-rw-r-- 1 jose jose  5719 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  5000 Aug  6 15:06 __init__.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie:
+total 32
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 7 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose 1013 Aug  6 15:06 _base.py
+-rw-rw-r-- 1 jose jose 2215 Aug  6 15:06 _base.pyc
+-rw-rw-r-- 1 jose jose  109 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  389 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose 1775 Aug  6 15:06 py.py
+-rw-rw-r-- 1 jose jose 3299 Aug  6 15:06 py.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/idna:
+total 656
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose   4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose   3299 Aug  6 15:06 codec.py
+-rw-rw-r--  1 jose jose   4277 Aug  6 15:06 codec.pyc
+-rw-rw-r--  1 jose jose    232 Aug  6 15:06 compat.py
+-rw-rw-r--  1 jose jose    923 Aug  6 15:06 compat.pyc
+-rw-rw-r--  1 jose jose  11951 Aug  6 15:06 core.py
+-rw-rw-r--  1 jose jose  12842 Aug  6 15:06 core.pyc
+-rw-rw-r--  1 jose jose  42350 Aug  6 15:06 idnadata.py
+-rw-rw-r--  1 jose jose  36209 Aug  6 15:06 idnadata.pyc
+-rw-rw-r--  1 jose jose     58 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose    272 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose   1749 Aug  6 15:06 intranges.py
+-rw-rw-r--  1 jose jose   2357 Aug  6 15:06 intranges.pyc
+-rw-rw-r--  1 jose jose     22 Aug  6 15:06 package_data.py
+-rw-rw-r--  1 jose jose    211 Aug  6 15:06 package_data.pyc
+-rw-rw-r--  1 jose jose 202084 Aug  6 15:06 uts46data.py
+-rw-rw-r--  1 jose jose 300592 Aug  6 15:06 uts46data.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/msgpack:
+total 124
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  1081 Aug  6 15:06 exceptions.py
+-rw-rw-r--  1 jose jose  2630 Aug  6 15:06 exceptions.pyc
+-rw-rw-r--  1 jose jose  6034 Aug  6 15:06 ext.py
+-rw-rw-r--  1 jose jose  7946 Aug  6 15:06 ext.pyc
+-rw-rw-r--  1 jose jose 37133 Aug  6 15:06 fallback.py
+-rw-rw-r--  1 jose jose 33582 Aug  6 15:06 fallback.pyc
+-rw-rw-r--  1 jose jose  1118 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose  1865 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose    20 Aug  6 15:06 _version.py
+-rw-rw-r--  1 jose jose   227 Aug  6 15:06 _version.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/packaging:
+total 248
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose   736 Aug  6 15:06 __about__.py
+-rw-rw-r--  1 jose jose   814 Aug  6 15:06 __about__.pyc
+-rw-rw-r--  1 jose jose  1128 Aug  6 15:06 _compat.py
+-rw-rw-r--  1 jose jose  1510 Aug  6 15:06 _compat.pyc
+-rw-rw-r--  1 jose jose   562 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   644 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  9491 Aug  6 15:06 markers.py
+-rw-rw-r--  1 jose jose 13269 Aug  6 15:06 markers.pyc
+-rw-rw-r--  1 jose jose  4903 Aug  6 15:06 requirements.py
+-rw-rw-r--  1 jose jose  5641 Aug  6 15:06 requirements.pyc
+-rw-rw-r--  1 jose jose 31944 Aug  6 15:06 specifiers.py
+-rw-rw-r--  1 jose jose 27776 Aug  6 15:06 specifiers.pyc
+-rw-rw-r--  1 jose jose  2022 Aug  6 15:06 _structures.py
+-rw-rw-r--  1 jose jose  4656 Aug  6 15:06 _structures.pyc
+-rw-rw-r--  1 jose jose 24067 Aug  6 15:06 tags.py
+-rw-rw-r--  1 jose jose 23748 Aug  6 15:06 tags.pyc
+-rw-rw-r--  1 jose jose  1824 Aug  6 15:06 _typing.py
+-rw-rw-r--  1 jose jose  1670 Aug  6 15:06 _typing.pyc
+-rw-rw-r--  1 jose jose  1811 Aug  6 15:06 utils.py
+-rw-rw-r--  1 jose jose  2304 Aug  6 15:06 utils.pyc
+-rw-rw-r--  1 jose jose 15470 Aug  6 15:06 version.py
+-rw-rw-r--  1 jose jose 19526 Aug  6 15:06 version.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/pep517:
+total 148
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose  3335 Aug  6 15:06 build.py
+-rw-rw-r--  1 jose jose  4517 Aug  6 15:06 build.pyc
+-rw-rw-r--  1 jose jose  5961 Aug  6 15:06 check.py
+-rw-rw-r--  1 jose jose  6135 Aug  6 15:06 check.pyc
+-rw-rw-r--  1 jose jose  4098 Aug  6 15:06 colorlog.py
+-rw-rw-r--  1 jose jose  3792 Aug  6 15:06 colorlog.pyc
+-rw-rw-r--  1 jose jose   780 Aug  6 15:06 compat.py
+-rw-rw-r--  1 jose jose  1548 Aug  6 15:06 compat.pyc
+-rw-rw-r--  1 jose jose  1129 Aug  6 15:06 dirtools.py
+-rw-rw-r--  1 jose jose  1819 Aug  6 15:06 dirtools.pyc
+-rw-rw-r--  1 jose jose  6041 Aug  6 15:06 envbuild.py
+-rw-rw-r--  1 jose jose  5660 Aug  6 15:06 envbuild.pyc
+-rw-rw-r--  1 jose jose    84 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   289 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  8438 Aug  6 15:06 _in_process.py
+-rw-rw-r--  1 jose jose 11314 Aug  6 15:06 _in_process.pyc
+-rw-rw-r--  1 jose jose  2463 Aug  6 15:06 meta.py
+-rw-rw-r--  1 jose jose  3713 Aug  6 15:06 meta.pyc
+-rw-rw-r--  1 jose jose 10783 Aug  6 15:06 wrappers.py
+-rw-rw-r--  1 jose jose 13480 Aug  6 15:06 wrappers.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/pkg_resources:
+total 256
+drwxrwxr-x  2 jose jose   4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose   4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 108277 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose 132243 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose    562 Aug  6 15:06 py31compat.py
+-rw-rw-r--  1 jose jose    843 Aug  6 15:06 py31compat.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/progress:
+total 52
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 2854 Aug  6 15:06 bar.py
+-rw-rw-r--  1 jose jose 3853 Aug  6 15:06 bar.pyc
+-rw-rw-r--  1 jose jose 1372 Aug  6 15:06 counter.py
+-rw-rw-r--  1 jose jose 2270 Aug  6 15:06 counter.pyc
+-rw-rw-r--  1 jose jose 4857 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose 8401 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose 1380 Aug  6 15:06 spinner.py
+-rw-rw-r--  1 jose jose 2078 Aug  6 15:06 spinner.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/requests:
+total 436
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 21548 Aug  6 15:06 adapters.py
+-rw-rw-r--  1 jose jose 20000 Aug  6 15:06 adapters.pyc
+-rw-rw-r--  1 jose jose  6496 Aug  6 15:06 api.py
+-rw-rw-r--  1 jose jose  7571 Aug  6 15:06 api.pyc
+-rw-rw-r--  1 jose jose 10207 Aug  6 15:06 auth.py
+-rw-rw-r--  1 jose jose 11239 Aug  6 15:06 auth.pyc
+-rw-rw-r--  1 jose jose   465 Aug  6 15:06 certs.py
+-rw-rw-r--  1 jose jose   646 Aug  6 15:06 certs.pyc
+-rw-rw-r--  1 jose jose  2045 Aug  6 15:06 compat.py
+-rw-rw-r--  1 jose jose  1984 Aug  6 15:06 compat.pyc
+-rw-rw-r--  1 jose jose 18430 Aug  6 15:06 cookies.py
+-rw-rw-r--  1 jose jose 24209 Aug  6 15:06 cookies.pyc
+-rw-rw-r--  1 jose jose  3173 Aug  6 15:06 exceptions.py
+-rw-rw-r--  1 jose jose  7867 Aug  6 15:06 exceptions.pyc
+-rw-rw-r--  1 jose jose  3578 Aug  6 15:06 help.py
+-rw-rw-r--  1 jose jose  3496 Aug  6 15:06 help.pyc
+-rw-rw-r--  1 jose jose   757 Aug  6 15:06 hooks.py
+-rw-rw-r--  1 jose jose  1322 Aug  6 15:06 hooks.pyc
+-rw-rw-r--  1 jose jose  4465 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose  4475 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  1096 Aug  6 15:06 _internal_utils.py
+-rw-rw-r--  1 jose jose  1619 Aug  6 15:06 _internal_utils.pyc
+-rw-rw-r--  1 jose jose 34287 Aug  6 15:06 models.py
+-rw-rw-r--  1 jose jose 30873 Aug  6 15:06 models.pyc
+-rw-rw-r--  1 jose jose   695 Aug  6 15:06 packages.py
+-rw-rw-r--  1 jose jose   606 Aug  6 15:06 packages.pyc
+-rw-rw-r--  1 jose jose 29316 Aug  6 15:06 sessions.py
+-rw-rw-r--  1 jose jose 23765 Aug  6 15:06 sessions.pyc
+-rw-rw-r--  1 jose jose  4188 Aug  6 15:06 status_codes.py
+-rw-rw-r--  1 jose jose  6241 Aug  6 15:06 status_codes.pyc
+-rw-rw-r--  1 jose jose  3005 Aug  6 15:06 structures.py
+-rw-rw-r--  1 jose jose  5958 Aug  6 15:06 structures.pyc
+-rw-rw-r--  1 jose jose 30176 Aug  6 15:06 utils.py
+-rw-rw-r--  1 jose jose 28691 Aug  6 15:06 utils.pyc
+-rw-rw-r--  1 jose jose   441 Aug  6 15:06 __version__.py
+-rw-rw-r--  1 jose jose   620 Aug  6 15:06 __version__.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/resolvelib:
+total 92
+drwxrwxr-x  3 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 compat
+-rw-rw-r--  1 jose jose   537 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   721 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  4547 Aug  6 15:06 providers.py
+-rw-rw-r--  1 jose jose  6194 Aug  6 15:06 providers.pyc
+-rw-rw-r--  1 jose jose  1405 Aug  6 15:06 reporters.py
+-rw-rw-r--  1 jose jose  2963 Aug  6 15:06 reporters.pyc
+-rw-rw-r--  1 jose jose 15018 Aug  6 15:06 resolvers.py
+-rw-rw-r--  1 jose jose 18658 Aug  6 15:06 resolvers.pyc
+-rw-rw-r--  1 jose jose  2016 Aug  6 15:06 structs.py
+-rw-rw-r--  1 jose jose  4532 Aug  6 15:06 structs.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/resolvelib/compat:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose  127 Aug  6 15:06 collections_abc.py
+-rw-rw-r-- 1 jose jose  366 Aug  6 15:06 collections_abc.pyc
+-rw-rw-r-- 1 jose jose    0 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  189 Aug  6 15:06 __init__.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/toml:
+total 140
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose   242 Aug  6 15:06 common.py
+-rw-rw-r--  1 jose jose   435 Aug  6 15:06 common.pyc
+-rw-rw-r--  1 jose jose 38696 Aug  6 15:06 decoder.py
+-rw-rw-r--  1 jose jose 29015 Aug  6 15:06 decoder.pyc
+-rw-rw-r--  1 jose jose  9955 Aug  6 15:06 encoder.py
+-rw-rw-r--  1 jose jose 12646 Aug  6 15:06 encoder.pyc
+-rw-rw-r--  1 jose jose   747 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose   848 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose   378 Aug  6 15:06 ordered.py
+-rw-rw-r--  1 jose jose  1314 Aug  6 15:06 ordered.pyc
+-rw-rw-r--  1 jose jose   618 Aug  6 15:06 tz.py
+-rw-rw-r--  1 jose jose  1590 Aug  6 15:06 tz.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/urllib3:
+total 320
+drwxrwxr-x  5 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 10792 Aug  6 15:06 _collections.py
+-rw-rw-r--  1 jose jose 14405 Aug  6 15:06 _collections.pyc
+-rw-rw-r--  1 jose jose 35725 Aug  6 15:06 connectionpool.py
+-rw-rw-r--  1 jose jose 28362 Aug  6 15:06 connectionpool.pyc
+-rw-rw-r--  1 jose jose 14461 Aug  6 15:06 connection.py
+-rw-rw-r--  1 jose jose 12918 Aug  6 15:06 connection.pyc
+drwxrwxr-x  3 jose jose  4096 Aug  6 15:06 contrib
+-rw-rw-r--  1 jose jose  7172 Aug  6 15:06 exceptions.py
+-rw-rw-r--  1 jose jose 15525 Aug  6 15:06 exceptions.pyc
+-rw-rw-r--  1 jose jose  8553 Aug  6 15:06 fields.py
+-rw-rw-r--  1 jose jose  9791 Aug  6 15:06 fields.pyc
+-rw-rw-r--  1 jose jose  2440 Aug  6 15:06 filepost.py
+-rw-rw-r--  1 jose jose  3647 Aug  6 15:06 filepost.pyc
+-rw-rw-r--  1 jose jose  2683 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose  2758 Aug  6 15:06 __init__.pyc
+drwxrwxr-x  4 jose jose  4096 Aug  6 15:06 packages
+-rw-rw-r--  1 jose jose 17861 Aug  6 15:06 poolmanager.py
+-rw-rw-r--  1 jose jose 16623 Aug  6 15:06 poolmanager.pyc
+-rw-rw-r--  1 jose jose  6018 Aug  6 15:06 request.py
+-rw-rw-r--  1 jose jose  6322 Aug  6 15:06 request.pyc
+-rw-rw-r--  1 jose jose 28221 Aug  6 15:06 response.py
+-rw-rw-r--  1 jose jose 26286 Aug  6 15:06 response.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 util
+
+./ve/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib:
+total 176
+drwxrwxr-x 3 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 5 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose   957 Aug  6 15:06 _appengine_environ.py
+-rw-rw-r-- 1 jose jose  2041 Aug  6 15:06 _appengine_environ.pyc
+-rw-rw-r-- 1 jose jose 11034 Aug  6 15:06 appengine.py
+-rw-rw-r-- 1 jose jose  9773 Aug  6 15:06 appengine.pyc
+-rw-rw-r-- 1 jose jose     0 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose   187 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose  4160 Aug  6 15:06 ntlmpool.py
+-rw-rw-r-- 1 jose jose  4082 Aug  6 15:06 ntlmpool.pyc
+-rw-rw-r-- 1 jose jose 16582 Aug  6 15:06 pyopenssl.py
+-rw-rw-r-- 1 jose jose 19798 Aug  6 15:06 pyopenssl.pyc
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 _securetransport
+-rw-rw-r-- 1 jose jose 32401 Aug  6 15:06 securetransport.py
+-rw-rw-r-- 1 jose jose 25735 Aug  6 15:06 securetransport.pyc
+-rw-rw-r-- 1 jose jose  7036 Aug  6 15:06 socks.py
+-rw-rw-r-- 1 jose jose  6751 Aug  6 15:06 socks.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport:
+total 68
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 3 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose 16886 Aug  6 15:06 bindings.py
+-rw-rw-r-- 1 jose jose 12149 Aug  6 15:06 bindings.pyc
+-rw-rw-r-- 1 jose jose     0 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose   204 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose 11956 Aug  6 15:06 low_level.py
+-rw-rw-r-- 1 jose jose  9834 Aug  6 15:06 low_level.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/urllib3/packages:
+total 96
+drwxrwxr-x 4 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 5 jose jose  4096 Aug  6 15:06 ..
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 backports
+-rw-rw-r-- 1 jose jose   108 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose   350 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose 32536 Aug  6 15:06 six.py
+-rw-rw-r-- 1 jose jose 37167 Aug  6 15:06 six.pyc
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 ssl_match_hostname
+
+./ve/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/backports:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 4 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose    0 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  198 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose 1418 Aug  6 15:06 makefile.py
+-rw-rw-r-- 1 jose jose 1671 Aug  6 15:06 makefile.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname:
+total 32
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:06 .
+drwxrwxr-x 4 jose jose 4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose 5696 Aug  6 15:06 _implementation.py
+-rw-rw-r-- 1 jose jose 4488 Aug  6 15:06 _implementation.pyc
+-rw-rw-r-- 1 jose jose  688 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  648 Aug  6 15:06 __init__.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/urllib3/util:
+total 188
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 5 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r-- 1 jose jose  4637 Aug  6 15:06 connection.py
+-rw-rw-r-- 1 jose jose  4080 Aug  6 15:06 connection.pyc
+-rw-rw-r-- 1 jose jose  1038 Aug  6 15:06 __init__.py
+-rw-rw-r-- 1 jose jose  1345 Aug  6 15:06 __init__.pyc
+-rw-rw-r-- 1 jose jose   497 Aug  6 15:06 queue.py
+-rw-rw-r-- 1 jose jose  1551 Aug  6 15:06 queue.pyc
+-rw-rw-r-- 1 jose jose  3815 Aug  6 15:06 request.py
+-rw-rw-r-- 1 jose jose  3998 Aug  6 15:06 request.pyc
+-rw-rw-r-- 1 jose jose  2573 Aug  6 15:06 response.py
+-rw-rw-r-- 1 jose jose  2505 Aug  6 15:06 response.pyc
+-rw-rw-r-- 1 jose jose 15543 Aug  6 15:06 retry.py
+-rw-rw-r-- 1 jose jose 15473 Aug  6 15:06 retry.pyc
+-rw-rw-r-- 1 jose jose 14523 Aug  6 15:06 ssl_.py
+-rw-rw-r-- 1 jose jose 12426 Aug  6 15:06 ssl_.pyc
+-rw-rw-r-- 1 jose jose  9947 Aug  6 15:06 timeout.py
+-rw-rw-r-- 1 jose jose 10102 Aug  6 15:06 timeout.pyc
+-rw-rw-r-- 1 jose jose 13981 Aug  6 15:06 url.py
+-rw-rw-r-- 1 jose jose 13330 Aug  6 15:06 url.pyc
+-rw-rw-r-- 1 jose jose  5406 Aug  6 15:06 wait.py
+-rw-rw-r-- 1 jose jose  4614 Aug  6 15:06 wait.pyc
+
+./ve/lib/python2.7/site-packages/pip/_vendor/webencodings:
+total 88
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 19 jose jose  4096 Aug  6 15:06 ..
+-rw-rw-r--  1 jose jose 10579 Aug  6 15:06 __init__.py
+-rw-rw-r--  1 jose jose 12003 Aug  6 15:06 __init__.pyc
+-rw-rw-r--  1 jose jose  8979 Aug  6 15:06 labels.py
+-rw-rw-r--  1 jose jose  5342 Aug  6 15:06 labels.pyc
+-rw-rw-r--  1 jose jose  1305 Aug  6 15:06 mklabels.py
+-rw-rw-r--  1 jose jose  2391 Aug  6 15:06 mklabels.pyc
+-rw-rw-r--  1 jose jose  6563 Aug  6 15:06 tests.py
+-rw-rw-r--  1 jose jose  7136 Aug  6 15:06 tests.pyc
+-rw-rw-r--  1 jose jose  4307 Aug  6 15:06 x_user_defined.py
+-rw-rw-r--  1 jose jose  3652 Aug  6 15:06 x_user_defined.pyc
+
+./ve/lib/python2.7/site-packages/pip-20.2.1.dist-info:
+total 84
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:06 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   125 Aug  6 15:06 entry_points.txt
+-rw-rw-r--  1 jose jose     4 Aug  6 15:06 INSTALLER
+-rw-rw-r--  1 jose jose  1090 Aug  6 15:06 LICENSE.txt
+-rw-rw-r--  1 jose jose  3708 Aug  6 15:06 METADATA
+-rw-rw-r--  1 jose jose 49691 Aug  6 15:06 RECORD
+-rw-rw-r--  1 jose jose     0 Aug  6 15:06 REQUESTED
+-rw-rw-r--  1 jose jose     4 Aug  6 15:06 top_level.txt
+-rw-rw-r--  1 jose jose   110 Aug  6 15:06 WHEEL
+
+./ve/lib/python2.7/site-packages/pkg_resources:
+total 260
+drwxrwxr-x  4 jose jose   4096 Aug  6 14:54 .
+drwxrwxr-x 33 jose jose   4096 Aug  6 15:07 ..
+drwxrwxr-x  2 jose jose   4096 Aug  6 14:54 extern
+-rw-rw-r--  1 jose jose 108349 Jul 29 23:10 __init__.py
+-rw-rw-r--  1 jose jose 128745 Aug  6 14:54 __init__.pyc
+-rw-rw-r--  1 jose jose    558 Jul 29 23:10 py31compat.py
+-rw-rw-r--  1 jose jose    814 Aug  6 14:54 py31compat.pyc
+drwxrwxr-x  3 jose jose   4096 Aug  6 14:54 _vendor
+
+./ve/lib/python2.7/site-packages/pkg_resources/extern:
+total 16
+drwxrwxr-x 2 jose jose 4096 Aug  6 14:54 .
+drwxrwxr-x 4 jose jose 4096 Aug  6 14:54 ..
+-rw-rw-r-- 1 jose jose 2498 Jul 29 23:10 __init__.py
+-rw-rw-r-- 1 jose jose 3143 Aug  6 14:54 __init__.pyc
+
+./ve/lib/python2.7/site-packages/pkg_resources/_vendor:
+total 608
+drwxrwxr-x 3 jose jose   4096 Aug  6 14:54 .
+drwxrwxr-x 4 jose jose   4096 Aug  6 14:54 ..
+-rw-rw-r-- 1 jose jose  24701 Jul 29 23:10 appdirs.py
+-rw-rw-r-- 1 jose jose  23740 Aug  6 14:54 appdirs.pyc
+-rw-rw-r-- 1 jose jose      0 Jul 29 23:10 __init__.py
+-rw-rw-r-- 1 jose jose    181 Aug  6 14:54 __init__.pyc
+drwxrwxr-x 2 jose jose   4096 Aug  6 14:54 packaging
+-rw-rw-r-- 1 jose jose 232055 Jul 29 23:10 pyparsing.py
+-rw-rw-r-- 1 jose jose 248862 Aug  6 14:54 pyparsing.pyc
+-rw-rw-r-- 1 jose jose  30098 Jul 29 23:10 six.py
+-rw-rw-r-- 1 jose jose  34048 Aug  6 14:54 six.pyc
+
+./ve/lib/python2.7/site-packages/pkg_resources/_vendor/packaging:
+total 176
+drwxrwxr-x 2 jose jose  4096 Aug  6 14:54 .
+drwxrwxr-x 3 jose jose  4096 Aug  6 14:54 ..
+-rw-rw-r-- 1 jose jose   720 Jul 29 23:10 __about__.py
+-rw-rw-r-- 1 jose jose   820 Aug  6 14:54 __about__.pyc
+-rw-rw-r-- 1 jose jose   860 Jul 29 23:10 _compat.py
+-rw-rw-r-- 1 jose jose  1368 Aug  6 14:54 _compat.pyc
+-rw-rw-r-- 1 jose jose   513 Jul 29 23:10 __init__.py
+-rw-rw-r-- 1 jose jose   642 Aug  6 14:54 __init__.pyc
+-rw-rw-r-- 1 jose jose  8248 Jul 29 23:10 markers.py
+-rw-rw-r-- 1 jose jose 13047 Aug  6 14:54 markers.pyc
+-rw-rw-r-- 1 jose jose  4355 Jul 29 23:10 requirements.py
+-rw-rw-r-- 1 jose jose  5449 Aug  6 14:54 requirements.pyc
+-rw-rw-r-- 1 jose jose 28025 Jul 29 23:10 specifiers.py
+-rw-rw-r-- 1 jose jose 27528 Aug  6 14:54 specifiers.pyc
+-rw-rw-r-- 1 jose jose  1416 Jul 29 23:10 _structures.py
+-rw-rw-r-- 1 jose jose  4824 Aug  6 14:54 _structures.pyc
+-rw-rw-r-- 1 jose jose   421 Jul 29 23:10 utils.py
+-rw-rw-r-- 1 jose jose 11556 Jul 29 23:10 version.py
+-rw-rw-r-- 1 jose jose 15961 Aug  6 14:54 version.pyc
+
+./ve/lib/python2.7/site-packages/setuptools:
+total 764
+drwxrwxr-x  5 jose jose  4096 Jul 29 23:10 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose  6592 Jul 29 23:10 archive_util.py
+-rw-rw-r--  1 jose jose  9887 Jul 29 23:10 build_meta.py
+-rw-rw-r--  1 jose jose 65536 Jul 29 23:10 cli-32.exe
+-rw-rw-r--  1 jose jose 74752 Jul 29 23:10 cli-64.exe
+-rw-rw-r--  1 jose jose 65536 Jul 29 23:10 cli.exe
+drwxrwxr-x  2 jose jose  4096 Jul 29 23:10 command
+-rw-rw-r--  1 jose jose 20575 Jul 29 23:10 config.py
+-rw-rw-r--  1 jose jose  5517 Jul 29 23:10 depends.py
+-rw-rw-r--  1 jose jose   218 Jul 29 23:10 _deprecation_warning.py
+-rw-rw-r--  1 jose jose   935 Jul 29 23:10 dep_util.py
+-rw-rw-r--  1 jose jose 49877 Jul 29 23:10 dist.py
+-rw-rw-r--  1 jose jose   524 Jul 29 23:10 errors.py
+-rw-rw-r--  1 jose jose  1729 Jul 29 23:10 extension.py
+drwxrwxr-x  2 jose jose  4096 Jul 29 23:10 extern
+-rw-rw-r--  1 jose jose  5084 Jul 29 23:10 glob.py
+-rw-rw-r--  1 jose jose 65536 Jul 29 23:10 gui-32.exe
+-rw-rw-r--  1 jose jose 75264 Jul 29 23:10 gui-64.exe
+-rw-rw-r--  1 jose jose 65536 Jul 29 23:10 gui.exe
+-rw-rw-r--  1 jose jose  2223 Jul 29 23:10 _imp.py
+-rw-rw-r--  1 jose jose  7795 Jul 29 23:10 __init__.py
+-rw-rw-r--  1 jose jose  5337 Jul 29 23:10 installer.py
+-rw-rw-r--  1 jose jose   787 Jul 29 23:10 launch.py
+-rw-rw-r--  1 jose jose  2013 Jul 29 23:10 lib2to3_ex.py
+-rw-rw-r--  1 jose jose  5264 Jul 29 23:10 monkey.py
+-rw-rw-r--  1 jose jose 46751 Jul 29 23:10 msvc.py
+-rw-rw-r--  1 jose jose  3199 Jul 29 23:10 namespaces.py
+-rw-rw-r--  1 jose jose 40605 Jul 29 23:10 package_index.py
+-rw-rw-r--  1 jose jose  1496 Jul 29 23:10 py27compat.py
+-rw-rw-r--  1 jose jose   838 Jul 29 23:10 py31compat.py
+-rw-rw-r--  1 jose jose  1330 Jul 29 23:10 py33compat.py
+-rw-rw-r--  1 jose jose   245 Jul 29 23:10 py34compat.py
+-rw-rw-r--  1 jose jose 14276 Jul 29 23:10 sandbox.py
+-rw-rw-r--  1 jose jose   218 Jul 29 23:10 script (dev).tmpl
+-rw-rw-r--  1 jose jose   138 Jul 29 23:10 script.tmpl
+-rw-rw-r--  1 jose jose  2302 Jul 29 23:10 site-patch.py
+-rw-rw-r--  1 jose jose  8493 Jul 29 23:10 ssl_support.py
+-rw-rw-r--  1 jose jose   996 Jul 29 23:10 unicode_utils.py
+drwxrwxr-x  3 jose jose  4096 Jul 29 23:10 _vendor
+-rw-rw-r--  1 jose jose   144 Jul 29 23:10 version.py
+-rw-rw-r--  1 jose jose  8455 Jul 29 23:10 wheel.py
+-rw-rw-r--  1 jose jose   714 Jul 29 23:10 windows_support.py
+
+./ve/lib/python2.7/site-packages/setuptools/command:
+total 292
+drwxrwxr-x 2 jose jose  4096 Jul 29 23:10 .
+drwxrwxr-x 5 jose jose  4096 Jul 29 23:10 ..
+-rw-rw-r-- 1 jose jose  2426 Jul 29 23:10 alias.py
+-rw-rw-r-- 1 jose jose 18185 Jul 29 23:10 bdist_egg.py
+-rw-rw-r-- 1 jose jose  1508 Jul 29 23:10 bdist_rpm.py
+-rw-rw-r-- 1 jose jose   637 Jul 29 23:10 bdist_wininst.py
+-rw-rw-r-- 1 jose jose  4484 Jul 29 23:10 build_clib.py
+-rw-rw-r-- 1 jose jose 13023 Jul 29 23:10 build_ext.py
+-rw-rw-r-- 1 jose jose  9596 Jul 29 23:10 build_py.py
+-rw-rw-r-- 1 jose jose  8188 Jul 29 23:10 develop.py
+-rw-rw-r-- 1 jose jose   960 Jul 29 23:10 dist_info.py
+-rw-rw-r-- 1 jose jose 87548 Jul 29 23:10 easy_install.py
+-rw-rw-r-- 1 jose jose 25574 Jul 29 23:10 egg_info.py
+-rw-rw-r-- 1 jose jose   568 Jul 29 23:10 __init__.py
+-rw-rw-r-- 1 jose jose  2203 Jul 29 23:10 install_egg_info.py
+-rw-rw-r-- 1 jose jose  3862 Jul 29 23:10 install_lib.py
+-rw-rw-r-- 1 jose jose  4705 Jul 29 23:10 install.py
+-rw-rw-r-- 1 jose jose  2439 Jul 29 23:10 install_scripts.py
+-rw-rw-r-- 1 jose jose   628 Jul 29 23:10 launcher manifest.xml
+-rw-rw-r-- 1 jose jose  4986 Jul 29 23:10 py36compat.py
+-rw-rw-r-- 1 jose jose   468 Jul 29 23:10 register.py
+-rw-rw-r-- 1 jose jose  2164 Jul 29 23:10 rotate.py
+-rw-rw-r-- 1 jose jose   658 Jul 29 23:10 saveopts.py
+-rw-rw-r-- 1 jose jose  8092 Jul 29 23:10 sdist.py
+-rw-rw-r-- 1 jose jose  5085 Jul 29 23:10 setopt.py
+-rw-rw-r-- 1 jose jose  9610 Jul 29 23:10 test.py
+-rw-rw-r-- 1 jose jose  7315 Jul 29 23:10 upload_docs.py
+-rw-rw-r-- 1 jose jose   462 Jul 29 23:10 upload.py
+
+./ve/lib/python2.7/site-packages/setuptools/extern:
+total 12
+drwxrwxr-x 2 jose jose 4096 Jul 29 23:10 .
+drwxrwxr-x 5 jose jose 4096 Jul 29 23:10 ..
+-rw-rw-r-- 1 jose jose 2514 Jul 29 23:10 __init__.py
+
+./ve/lib/python2.7/site-packages/setuptools/_vendor:
+total 288
+drwxrwxr-x 3 jose jose   4096 Jul 29 23:10 .
+drwxrwxr-x 5 jose jose   4096 Jul 29 23:10 ..
+-rw-rw-r-- 1 jose jose      0 Jul 29 23:10 __init__.py
+-rw-rw-r-- 1 jose jose  15130 Jul 29 23:10 ordered_set.py
+drwxrwxr-x 2 jose jose   4096 Jul 29 23:10 packaging
+-rw-rw-r-- 1 jose jose 232055 Jul 29 23:10 pyparsing.py
+-rw-rw-r-- 1 jose jose  30098 Jul 29 23:10 six.py
+
+./ve/lib/python2.7/site-packages/setuptools/_vendor/packaging:
+total 104
+drwxrwxr-x 2 jose jose  4096 Jul 29 23:10 .
+drwxrwxr-x 3 jose jose  4096 Jul 29 23:10 ..
+-rw-rw-r-- 1 jose jose   744 Jul 29 23:10 __about__.py
+-rw-rw-r-- 1 jose jose   865 Jul 29 23:10 _compat.py
+-rw-rw-r-- 1 jose jose   562 Jul 29 23:10 __init__.py
+-rw-rw-r-- 1 jose jose  8268 Jul 29 23:10 markers.py
+-rw-rw-r-- 1 jose jose  4742 Jul 29 23:10 requirements.py
+-rw-rw-r-- 1 jose jose 27778 Jul 29 23:10 specifiers.py
+-rw-rw-r-- 1 jose jose  1416 Jul 29 23:10 _structures.py
+-rw-rw-r-- 1 jose jose 12933 Jul 29 23:10 tags.py
+-rw-rw-r-- 1 jose jose  1520 Jul 29 23:10 utils.py
+-rw-rw-r-- 1 jose jose 11978 Jul 29 23:10 version.py
+
+./ve/lib/python2.7/site-packages/setuptools-44.1.1.dist-info:
+total 56
+drwxrwxr-x  2 jose jose  4096 Jul 29 23:10 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   239 Jul 29 23:10 dependency_links.txt
+-rw-rw-r--  1 jose jose  3206 Jul 29 23:10 entry_points.txt
+-rw-rw-r--  1 jose jose     4 Jul 29 23:10 INSTALLER
+-rw-rw-r--  1 jose jose  1078 Jul 29 23:10 LICENSE
+-rw-rw-r--  1 jose jose  3704 Jul 29 23:10 METADATA
+-rw-rw-r--  1 jose jose 13467 Jul 29 23:10 RECORD
+-rw-rw-r--  1 jose jose    38 Jul 29 23:10 top_level.txt
+-rw-rw-r--  1 jose jose   110 Jul 29 23:10 WHEEL
+-rw-rw-r--  1 jose jose     1 Jul 29 23:10 zip-safe
+
+./ve/lib/python2.7/site-packages/werkzeug:
+total 1196
+drwxrwxr-x  5 jose jose   4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose   4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   6671 Aug  1 23:51 _compat.py
+-rw-rw-r--  1 jose jose  11317 Aug  1 23:51 _compat.pyc
+-rw-rw-r--  1 jose jose 100480 Aug  1 23:51 datastructures.py
+-rw-rw-r--  1 jose jose 141131 Aug  1 23:51 datastructures.pyc
+drwxrwxr-x  3 jose jose   4096 Aug  1 23:51 debug
+-rw-rw-r--  1 jose jose  25188 Aug  1 23:51 exceptions.py
+-rw-rw-r--  1 jose jose  33459 Aug  1 23:51 exceptions.pyc
+-rw-rw-r--  1 jose jose   2101 Aug  1 23:51 filesystem.py
+-rw-rw-r--  1 jose jose   2586 Aug  1 23:51 filesystem.pyc
+-rw-rw-r--  1 jose jose  21788 Aug  1 23:51 formparser.py
+-rw-rw-r--  1 jose jose  19814 Aug  1 23:51 formparser.pyc
+-rw-rw-r--  1 jose jose  43107 Aug  1 23:51 http.py
+-rw-rw-r--  1 jose jose  41899 Aug  1 23:51 http.pyc
+-rw-rw-r--  1 jose jose    502 Aug  1 23:51 __init__.py
+-rw-rw-r--  1 jose jose    781 Aug  1 23:51 __init__.pyc
+-rw-rw-r--  1 jose jose  14351 Aug  1 23:51 _internal.py
+-rw-rw-r--  1 jose jose  16497 Aug  1 23:51 _internal.pyc
+-rw-rw-r--  1 jose jose  14371 Aug  1 23:51 local.py
+-rw-rw-r--  1 jose jose  26848 Aug  1 23:51 local.pyc
+drwxrwxr-x  2 jose jose   4096 Aug  1 23:51 middleware
+-rw-rw-r--  1 jose jose   3541 Aug  1 23:51 posixemulation.py
+-rw-rw-r--  1 jose jose   3566 Aug  1 23:51 posixemulation.pyc
+-rw-rw-r--  1 jose jose  11531 Aug  1 23:51 _reloader.py
+-rw-rw-r--  1 jose jose  12651 Aug  1 23:51 _reloader.pyc
+-rw-rw-r--  1 jose jose  79019 Aug  1 23:51 routing.py
+-rw-rw-r--  1 jose jose  79757 Aug  1 23:51 routing.pyc
+-rw-rw-r--  1 jose jose   8106 Aug  1 23:51 security.py
+-rw-rw-r--  1 jose jose   9856 Aug  1 23:51 security.pyc
+-rw-rw-r--  1 jose jose  38694 Aug  1 23:51 serving.py
+-rw-rw-r--  1 jose jose  36804 Aug  1 23:51 serving.pyc
+-rw-rw-r--  1 jose jose   9329 Aug  1 23:51 testapp.py
+-rw-rw-r--  1 jose jose  10534 Aug  1 23:51 testapp.pyc
+-rw-rw-r--  1 jose jose  39564 Aug  1 23:51 test.py
+-rw-rw-r--  1 jose jose  40768 Aug  1 23:51 test.pyc
+-rw-rw-r--  1 jose jose  39322 Aug  1 23:51 urls.py
+-rw-rw-r--  1 jose jose  41989 Aug  1 23:51 urls.pyc
+-rw-rw-r--  1 jose jose   5563 Aug  1 23:51 useragents.py
+-rw-rw-r--  1 jose jose   7306 Aug  1 23:51 useragents.pyc
+-rw-rw-r--  1 jose jose  25251 Aug  1 23:51 utils.py
+-rw-rw-r--  1 jose jose  27103 Aug  1 23:51 utils.pyc
+drwxrwxr-x  2 jose jose   4096 Aug  1 23:51 wrappers
+-rw-rw-r--  1 jose jose  34367 Aug  1 23:51 wsgi.py
+-rw-rw-r--  1 jose jose  36713 Aug  1 23:51 wsgi.pyc
+
+./ve/lib/python2.7/site-packages/werkzeug/debug:
+total 136
+drwxrwxr-x 3 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 5 jose jose  4096 Aug  1 23:51 ..
+-rw-rw-r-- 1 jose jose  5488 Aug  1 23:51 console.py
+-rw-rw-r-- 1 jose jose 10497 Aug  1 23:51 console.pyc
+-rw-rw-r-- 1 jose jose 17289 Aug  1 23:51 __init__.py
+-rw-rw-r-- 1 jose jose 16015 Aug  1 23:51 __init__.pyc
+-rw-rw-r-- 1 jose jose  9621 Aug  1 23:51 repr.py
+-rw-rw-r-- 1 jose jose 11046 Aug  1 23:51 repr.pyc
+drwxrwxr-x 2 jose jose  4096 Aug  1 23:51 shared
+-rw-rw-r-- 1 jose jose 20363 Aug  1 23:51 tbtools.py
+-rw-rw-r-- 1 jose jose 22926 Aug  1 23:51 tbtools.pyc
+
+./ve/lib/python2.7/site-packages/werkzeug/debug/shared:
+total 208
+drwxrwxr-x 2 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 3 jose jose  4096 Aug  1 23:51 ..
+-rw-rw-r-- 1 jose jose   507 Aug  1 23:51 console.png
+-rw-rw-r-- 1 jose jose  6400 Aug  1 23:51 debugger.js
+-rw-rw-r-- 1 jose jose  4673 Aug  1 23:51 FONT_LICENSE
+-rw-rw-r-- 1 jose jose 88145 Aug  1 23:51 jquery.js
+-rw-rw-r-- 1 jose jose   191 Aug  1 23:51 less.png
+-rw-rw-r-- 1 jose jose   200 Aug  1 23:51 more.png
+-rw-rw-r-- 1 jose jose   818 Aug  1 23:51 source.png
+-rw-rw-r-- 1 jose jose  6604 Aug  1 23:51 style.css
+-rw-rw-r-- 1 jose jose 70220 Aug  1 23:51 ubuntu.ttf
+
+./ve/lib/python2.7/site-packages/werkzeug/middleware:
+total 128
+drwxrwxr-x 2 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 5 jose jose  4096 Aug  1 23:51 ..
+-rw-rw-r-- 1 jose jose  2240 Aug  1 23:51 dispatcher.py
+-rw-rw-r-- 1 jose jose  2789 Aug  1 23:51 dispatcher.pyc
+-rw-rw-r-- 1 jose jose  7117 Aug  1 23:51 http_proxy.py
+-rw-rw-r-- 1 jose jose  7401 Aug  1 23:51 http_proxy.pyc
+-rw-rw-r-- 1 jose jose   549 Aug  1 23:51 __init__.py
+-rw-rw-r-- 1 jose jose   744 Aug  1 23:51 __init__.pyc
+-rw-rw-r-- 1 jose jose 12967 Aug  1 23:51 lint.py
+-rw-rw-r-- 1 jose jose 15480 Aug  1 23:51 lint.pyc
+-rw-rw-r-- 1 jose jose  4471 Aug  1 23:51 profiler.py
+-rw-rw-r-- 1 jose jose  5239 Aug  1 23:51 profiler.pyc
+-rw-rw-r-- 1 jose jose  6431 Aug  1 23:51 proxy_fix.py
+-rw-rw-r-- 1 jose jose  6405 Aug  1 23:51 proxy_fix.pyc
+-rw-rw-r-- 1 jose jose  9599 Aug  1 23:51 shared_data.py
+-rw-rw-r-- 1 jose jose 11191 Aug  1 23:51 shared_data.pyc
+
+./ve/lib/python2.7/site-packages/werkzeug/wrappers:
+total 256
+drwxrwxr-x 2 jose jose  4096 Aug  1 23:51 .
+drwxrwxr-x 5 jose jose  4096 Aug  1 23:51 ..
+-rw-rw-r-- 1 jose jose  1760 Aug  1 23:51 accept.py
+-rw-rw-r-- 1 jose jose  2681 Aug  1 23:51 accept.pyc
+-rw-rw-r-- 1 jose jose  1158 Aug  1 23:51 auth.py
+-rw-rw-r-- 1 jose jose  2142 Aug  1 23:51 auth.pyc
+-rw-rw-r-- 1 jose jose 26012 Aug  1 23:51 base_request.py
+-rw-rw-r-- 1 jose jose 25773 Aug  1 23:51 base_request.pyc
+-rw-rw-r-- 1 jose jose 27784 Aug  1 23:51 base_response.py
+-rw-rw-r-- 1 jose jose 27376 Aug  1 23:51 base_response.pyc
+-rw-rw-r-- 1 jose jose 12829 Aug  1 23:51 common_descriptors.py
+-rw-rw-r-- 1 jose jose 14791 Aug  1 23:51 common_descriptors.pyc
+-rw-rw-r-- 1 jose jose  3466 Aug  1 23:51 cors.py
+-rw-rw-r-- 1 jose jose  3858 Aug  1 23:51 cors.pyc
+-rw-rw-r-- 1 jose jose 12217 Aug  1 23:51 etag.py
+-rw-rw-r-- 1 jose jose 13879 Aug  1 23:51 etag.pyc
+-rw-rw-r-- 1 jose jose  1384 Aug  1 23:51 __init__.py
+-rw-rw-r-- 1 jose jose  1859 Aug  1 23:51 __init__.pyc
+-rw-rw-r-- 1 jose jose  4343 Aug  1 23:51 json.py
+-rw-rw-r-- 1 jose jose  5498 Aug  1 23:51 json.pyc
+-rw-rw-r-- 1 jose jose  1514 Aug  1 23:51 request.py
+-rw-rw-r-- 1 jose jose  2362 Aug  1 23:51 request.pyc
+-rw-rw-r-- 1 jose jose  2524 Aug  1 23:51 response.py
+-rw-rw-r-- 1 jose jose  4718 Aug  1 23:51 response.pyc
+-rw-rw-r-- 1 jose jose   435 Aug  1 23:51 user_agent.py
+-rw-rw-r-- 1 jose jose  1035 Aug  1 23:51 user_agent.pyc
+
+./ve/lib/python2.7/site-packages/Werkzeug-1.0.1.dist-info:
+total 40
+drwxrwxr-x  2 jose jose 4096 Aug  1 23:51 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose    4 Aug  1 23:51 INSTALLER
+-rw-rw-r--  1 jose jose 1475 Aug  1 23:51 LICENSE.rst
+-rw-rw-r--  1 jose jose 4730 Aug  1 23:51 METADATA
+-rw-rw-r--  1 jose jose 6152 Aug  1 23:51 RECORD
+-rw-rw-r--  1 jose jose    9 Aug  1 23:51 top_level.txt
+-rw-rw-r--  1 jose jose  110 Aug  1 23:51 WHEEL
+
+./ve/lib/python2.7/site-packages/wheel:
+total 88
+drwxrwxr-x  3 jose jose  4096 Jul 29 23:10 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose 15840 Jul 29 23:10 bdist_wheel.py
+drwxrwxr-x  2 jose jose  4096 Jul 29 23:10 cli
+-rw-rw-r--  1 jose jose    23 Jul 29 23:10 __init__.py
+-rw-rw-r--  1 jose jose 11858 Jul 29 23:10 macosx_libfile.py
+-rw-rw-r--  1 jose jose   417 Jul 29 23:10 __main__.py
+-rw-rw-r--  1 jose jose  4517 Jul 29 23:10 metadata.py
+-rw-rw-r--  1 jose jose  9071 Jul 29 23:10 pep425tags.py
+-rw-rw-r--  1 jose jose  1257 Jul 29 23:10 pkginfo.py
+-rw-rw-r--  1 jose jose   938 Jul 29 23:10 util.py
+-rw-rw-r--  1 jose jose   133 Jul 29 23:10 _version.py
+-rw-rw-r--  1 jose jose  7298 Jul 29 23:10 wheelfile.py
+
+./ve/lib/python2.7/site-packages/wheel/cli:
+total 32
+drwxrwxr-x 2 jose jose 4096 Jul 29 23:10 .
+drwxrwxr-x 3 jose jose 4096 Jul 29 23:10 ..
+-rw-rw-r-- 1 jose jose 9498 Jul 29 23:10 convert.py
+-rw-rw-r-- 1 jose jose 2572 Jul 29 23:10 __init__.py
+-rw-rw-r-- 1 jose jose    0 Jul 29 23:10 install.py
+-rw-rw-r-- 1 jose jose 3208 Jul 29 23:10 pack.py
+-rw-rw-r-- 1 jose jose  673 Jul 29 23:10 unpack.py
+
+./ve/lib/python2.7/site-packages/wheel-0.34.2.dist-info:
+total 36
+drwxrwxr-x  2 jose jose 4096 Jul 29 23:10 .
+drwxrwxr-x 33 jose jose 4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose  108 Jul 29 23:10 entry_points.txt
+-rw-rw-r--  1 jose jose    4 Jul 29 23:10 INSTALLER
+-rw-rw-r--  1 jose jose 1125 Jul 29 23:10 LICENSE.txt
+-rw-rw-r--  1 jose jose 2219 Jul 29 23:10 METADATA
+-rw-rw-r--  1 jose jose 2334 Jul 29 23:10 RECORD
+-rw-rw-r--  1 jose jose    6 Jul 29 23:10 top_level.txt
+-rw-rw-r--  1 jose jose  110 Jul 29 23:10 WHEEL
+
+./ve/lib/python2.7/site-packages/wtforms:
+total 152
+drwxrwxr-x  7 jose jose  4096 Aug  6 15:05 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose   589 Aug  6 15:05 compat.py
+-rw-rw-r--  1 jose jose  1492 Aug  6 15:05 compat.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:05 csrf
+drwxrwxr-x  8 jose jose  4096 Aug  6 15:05 ext
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:05 fields
+-rw-rw-r--  1 jose jose 11991 Aug  6 15:05 form.py
+-rw-rw-r--  1 jose jose 14524 Aug  6 15:05 form.pyc
+-rw-rw-r--  1 jose jose  2175 Aug  6 15:05 i18n.py
+-rw-rw-r--  1 jose jose  3618 Aug  6 15:05 i18n.pyc
+-rw-rw-r--  1 jose jose   380 Aug  6 15:05 __init__.py
+-rw-rw-r--  1 jose jose   678 Aug  6 15:05 __init__.pyc
+drwxrwxr-x 32 jose jose  4096 Aug  6 15:05 locale
+-rw-rw-r--  1 jose jose  3822 Aug  6 15:05 meta.py
+-rw-rw-r--  1 jose jose  4587 Aug  6 15:05 meta.pyc
+-rw-rw-r--  1 jose jose  1504 Aug  6 15:05 utils.py
+-rw-rw-r--  1 jose jose  3337 Aug  6 15:05 utils.pyc
+-rw-rw-r--  1 jose jose 20739 Aug  6 15:05 validators.py
+-rw-rw-r--  1 jose jose 27469 Aug  6 15:05 validators.pyc
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:05 widgets
+
+./ve/lib/python2.7/site-packages/wtforms/csrf:
+total 36
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 7 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3157 Aug  6 15:05 core.py
+-rw-rw-r-- 1 jose jose 4788 Aug  6 15:05 core.pyc
+-rw-rw-r-- 1 jose jose    0 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose  172 Aug  6 15:05 __init__.pyc
+-rw-rw-r-- 1 jose jose 3056 Aug  6 15:05 session.py
+-rw-rw-r-- 1 jose jose 4254 Aug  6 15:05 session.pyc
+
+./ve/lib/python2.7/site-packages/wtforms/ext:
+total 36
+drwxrwxr-x 8 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 7 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 appengine
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 csrf
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 dateutil
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 django
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 i18n
+-rw-rw-r-- 1 jose jose    0 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose  171 Aug  6 15:05 __init__.pyc
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 sqlalchemy
+
+./ve/lib/python2.7/site-packages/wtforms/ext/appengine:
+total 120
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:05 .
+drwxrwxr-x 8 jose jose  4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 18588 Aug  6 15:05 db.py
+-rw-rw-r-- 1 jose jose 22457 Aug  6 15:05 db.pyc
+-rw-rw-r-- 1 jose jose  7574 Aug  6 15:05 fields.py
+-rw-rw-r-- 1 jose jose 10470 Aug  6 15:05 fields.pyc
+-rw-rw-r-- 1 jose jose   211 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose   401 Aug  6 15:05 __init__.pyc
+-rw-rw-r-- 1 jose jose 17124 Aug  6 15:05 ndb.py
+-rw-rw-r-- 1 jose jose 20452 Aug  6 15:05 ndb.pyc
+
+./ve/lib/python2.7/site-packages/wtforms/ext/csrf:
+total 40
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 8 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose  430 Aug  6 15:05 fields.py
+-rw-rw-r-- 1 jose jose 1116 Aug  6 15:05 fields.pyc
+-rw-rw-r-- 1 jose jose 1785 Aug  6 15:05 form.py
+-rw-rw-r-- 1 jose jose 2833 Aug  6 15:05 form.pyc
+-rw-rw-r-- 1 jose jose  205 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose  420 Aug  6 15:05 __init__.pyc
+-rw-rw-r-- 1 jose jose 2627 Aug  6 15:05 session.py
+-rw-rw-r-- 1 jose jose 3284 Aug  6 15:05 session.pyc
+
+./ve/lib/python2.7/site-packages/wtforms/ext/dateutil:
+total 24
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 8 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3429 Aug  6 15:05 fields.py
+-rw-rw-r-- 1 jose jose 4050 Aug  6 15:05 fields.pyc
+-rw-rw-r-- 1 jose jose  120 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose  323 Aug  6 15:05 __init__.pyc
+
+./ve/lib/python2.7/site-packages/wtforms/ext/django:
+total 64
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 8 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 4580 Aug  6 15:05 fields.py
+-rw-rw-r-- 1 jose jose 6713 Aug  6 15:05 fields.pyc
+-rw-rw-r-- 1 jose jose  626 Aug  6 15:05 i18n.py
+-rw-rw-r-- 1 jose jose 1708 Aug  6 15:05 i18n.pyc
+-rw-rw-r-- 1 jose jose  202 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose  389 Aug  6 15:05 __init__.pyc
+-rw-rw-r-- 1 jose jose 6096 Aug  6 15:05 orm.py
+-rw-rw-r-- 1 jose jose 8729 Aug  6 15:05 orm.pyc
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 templatetags
+
+./ve/lib/python2.7/site-packages/wtforms/ext/django/templatetags:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose    0 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose  191 Aug  6 15:05 __init__.pyc
+-rw-rw-r-- 1 jose jose 2826 Aug  6 15:05 wtforms.py
+-rw-rw-r-- 1 jose jose 3842 Aug  6 15:05 wtforms.pyc
+
+./ve/lib/python2.7/site-packages/wtforms/ext/i18n:
+total 32
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 8 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 1608 Aug  6 15:05 form.py
+-rw-rw-r-- 1 jose jose 2254 Aug  6 15:05 form.pyc
+-rw-rw-r-- 1 jose jose  159 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose  351 Aug  6 15:05 __init__.pyc
+-rw-rw-r-- 1 jose jose  530 Aug  6 15:05 utils.py
+-rw-rw-r-- 1 jose jose  788 Aug  6 15:05 utils.pyc
+
+./ve/lib/python2.7/site-packages/wtforms/ext/sqlalchemy:
+total 64
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:05 .
+drwxrwxr-x 8 jose jose  4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose  6846 Aug  6 15:05 fields.py
+-rw-rw-r-- 1 jose jose  9568 Aug  6 15:05 fields.pyc
+-rw-rw-r-- 1 jose jose   284 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose   468 Aug  6 15:05 __init__.pyc
+-rw-rw-r-- 1 jose jose 10671 Aug  6 15:05 orm.py
+-rw-rw-r-- 1 jose jose 13301 Aug  6 15:05 orm.pyc
+
+./ve/lib/python2.7/site-packages/wtforms/fields:
+total 124
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:05 .
+drwxrwxr-x 7 jose jose  4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 36136 Aug  6 15:05 core.py
+-rw-rw-r-- 1 jose jose 47829 Aug  6 15:05 core.pyc
+-rw-rw-r-- 1 jose jose  1979 Aug  6 15:05 html5.py
+-rw-rw-r-- 1 jose jose  4382 Aug  6 15:05 html5.pyc
+-rw-rw-r-- 1 jose jose   219 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose   452 Aug  6 15:05 __init__.pyc
+-rw-rw-r-- 1 jose jose  2218 Aug  6 15:05 simple.py
+-rw-rw-r-- 1 jose jose  4192 Aug  6 15:05 simple.pyc
+
+./ve/lib/python2.7/site-packages/wtforms/locale:
+total 140
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x  7 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 ar
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 bg
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 ca
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 cs_CZ
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 cy
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 de
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 de_CH
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 el
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 en
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 es
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 et
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 fa
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 fi
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 fr
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 he
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 hu
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 it
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 ja
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 ko
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 nb
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 nl
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 pl
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 pt
+-rw-rw-r--  1 jose jose 1062 Aug  6 15:05 README.md
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 ru
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 sk
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 sv
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 tr
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 uk
+-rw-rw-r--  1 jose jose 4389 Aug  6 15:05 wtforms.pot
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 zh
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 zh_TW
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ar:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ar/LC_MESSAGES:
+total 24
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 4781 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 6532 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/bg:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/bg/LC_MESSAGES:
+total 24
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 4437 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 6573 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ca:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ca/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3565 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5682 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/cs_CZ:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/cs_CZ/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3805 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5826 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/cy:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/cy/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3511 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5632 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/de:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/de/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3552 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5674 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/de_CH:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/de_CH/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3558 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5694 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/el:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/el/LC_MESSAGES:
+total 24
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 4447 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 6562 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/en:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/en/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3487 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5655 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/es:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/es/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3336 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5585 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/et:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/et/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3596 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5714 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/fa:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/fa/LC_MESSAGES:
+total 24
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 4211 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 6366 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/fi:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/fi/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3556 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5673 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/fr:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/fr/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3695 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5868 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/he:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/he/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3707 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5874 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/hu:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/hu/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3684 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5709 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/it:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/it/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3650 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5773 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ja:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ja/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3893 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5981 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ko:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ko/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3878 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 6046 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/nb:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/nb/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3477 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5604 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/nl:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/nl/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3490 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5605 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/pl:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/pl/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3731 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5882 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/pt:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/pt/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3578 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5698 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ru:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/ru/LC_MESSAGES:
+total 24
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 4395 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 6637 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/sk:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/sk/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3667 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5816 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/sv:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/sv/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3516 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5633 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/tr:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/tr/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3531 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5648 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/uk:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/uk/LC_MESSAGES:
+total 24
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 4721 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 6793 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/zh:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/zh/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3436 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5595 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/locale/zh_TW:
+total 12
+drwxrwxr-x  3 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 32 jose jose 4096 Aug  6 15:05 ..
+drwxrwxr-x  2 jose jose 4096 Aug  6 15:05 LC_MESSAGES
+
+./ve/lib/python2.7/site-packages/wtforms/locale/zh_TW/LC_MESSAGES:
+total 20
+drwxrwxr-x 2 jose jose 4096 Aug  6 15:05 .
+drwxrwxr-x 3 jose jose 4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 3231 Aug  6 15:05 wtforms.mo
+-rw-rw-r-- 1 jose jose 5422 Aug  6 15:05 wtforms.po
+
+./ve/lib/python2.7/site-packages/wtforms/widgets:
+total 56
+drwxrwxr-x 2 jose jose  4096 Aug  6 15:05 .
+drwxrwxr-x 7 jose jose  4096 Aug  6 15:05 ..
+-rw-rw-r-- 1 jose jose 10342 Aug  6 15:05 core.py
+-rw-rw-r-- 1 jose jose 15444 Aug  6 15:05 core.pyc
+-rw-rw-r-- 1 jose jose  2440 Aug  6 15:05 html5.py
+-rw-rw-r-- 1 jose jose  5512 Aug  6 15:05 html5.pyc
+-rw-rw-r-- 1 jose jose   112 Aug  6 15:05 __init__.py
+-rw-rw-r-- 1 jose jose   291 Aug  6 15:05 __init__.pyc
+
+./ve/lib/python2.7/site-packages/WTForms-2.3.3.dist-info:
+total 40
+drwxrwxr-x  2 jose jose  4096 Aug  6 15:05 .
+drwxrwxr-x 33 jose jose  4096 Aug  6 15:07 ..
+-rw-rw-r--  1 jose jose     4 Aug  6 15:05 INSTALLER
+-rw-rw-r--  1 jose jose  1475 Aug  6 15:05 LICENSE.rst
+-rw-rw-r--  1 jose jose  3669 Aug  6 15:05 METADATA
+-rw-rw-r--  1 jose jose 11110 Aug  6 15:05 RECORD
+-rw-rw-r--  1 jose jose     8 Aug  6 15:05 top_level.txt
+-rw-rw-r--  1 jose jose   110 Aug  6 15:05 WHEEL

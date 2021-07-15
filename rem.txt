@@ -1,0 +1,3 @@
+paraEntornoVirtual.tar.gz es una copia de el entorno virtual ve y de mi app.
+Creado el dia de este archivo de texto. Jueves 6 de agosto
+
