@@ -19,7 +19,9 @@ class User(UserMixin):
 
 
     def __repr__(self):
-        return '<User {}>'.format(self.email)
+        return '<User {}>'.format(self.name)
+        #cambie la representacion por .name xq decia mail, pero noes serializable
+        
 
 
 users = []
